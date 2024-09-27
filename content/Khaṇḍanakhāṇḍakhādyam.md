@@ -26,7 +26,7 @@ pratipakṣiṇaḥ:
 
 Vyākhyātāraḥ:
 - [[ŚaṃkaraMiśraḥ|Śaṃkara Miśra]]– Śāṃkarī
-- [[RāghunathaŚiromaṇiḥ|Śrī Rāghunātha Śiromaṇi]] – Khaṇḍanabhūṣāmaṇi
+- [[RaghunāthaŚiromaṇiḥ|Raghunātha Śiromaṇi]] – Khaṇḍanabhūṣāmaṇi
 - [[Hanumān Dās]] – Tattvabodhinī
 
 ### Verse 1
