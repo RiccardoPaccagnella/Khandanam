@@ -2,5 +2,5 @@
 title: Welcome to Quartz
 ---
 
-[[Khaṇḍanakhāṇḍakhādyam]]
+[[Khaṇḍanakhaṇḍakhādyam]]
 [[Conventions]]
