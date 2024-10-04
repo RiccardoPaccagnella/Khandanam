@@ -159,21 +159,21 @@ lokeṣu dig-vijaya-{3}kautukam ātanudhvam ||3||
 
 #### Translation
 
-Strong-minded men, spread the joy of victory everywhere repeating my words in the world, even as parrots, and bring to silence the proud by revealing the true derivation of words.
+Strong-minded men! Spread the joy of victory in all directions by repeating my words among people, even as parrots, and bring to silence those who are full of pride by refuting their derivations of words and meanings.
 
 #### RŚ Commentary
 
 śruti-janita:bodha-rakṣām eva khaṇḍana-prayojanaṃ matvā parān śikṣayati — **śabd';ārth'** eti |
-'yath"-oktam etad gratha-svarūpaṃ śukavad uktv" āpi dig-vijayena yat kautukaṃ, tat vistārayata diṣkv' ity arthaḥ |
+'yath"-oktam etad:grantha-svarūpaṃ śukavad uktv" āpi dig-vijayena yat kautukaṃ, tat vistārayata dikṣv' ity arthaḥ |
 'ku:tark'-ābhyāsa-rasikānāṃ parājayaḥ **kautukaṃ** krīḍā, tathā c' edṛśa:kṛīḍ" aiva bahir—mukhatā-daśāyāṃ kāry"' ety upadeśaḥ |
-'**kautukam** āścaryaṃ loke hi; darśayat'' ety api kecit |
-'**a:karva—garvān** an:alpa—garvān śabdaś c' ārthaś ca tayor **nirvacanaṃ**  niruktis 'tattv'-ānubhūtiḥ pram"' ety atra 'tasya bhāvas tattvam' iti 'kim ayaṃ yaugikaḥ śabdaḥ, kiṃ v" ā—khaṇḍam eva tattva:padaṃ kvacid arthe rūḍham' iti śabda-niruktiḥ |
-'tattvaṃ yady a:bādhitaṃ rūpaṃ, tad api kiṃ svasy' ā:bhāditam, uta parasya?
+'**kautukam** āścaryaṃ loke hi darśayat'' ety api kecit |
+'**a:kharva—garvān** an:alpa—garvān śabdaś c' ārthaś ca tayor **nirvacanaṃ**  niruktis 'tattv'-ānubhūtiḥ pram"' ety atra 'tasya bhāvas tattvam' iti 'kim ayaṃ yaugikaḥ śabdaḥ? kiṃ v" ā—khaṇḍam eva tattva:padaṃ kvacid arthe rūḍham?' iti śabda-niruktiḥ |
+'tattvaṃ yady a:bādhitaṃ rūpaṃ, tad api kiṃ svasy' ā:bāditam, uta parasya?
 tatr' āpi kiṃ yasya kasyacid, atha sarvasya? 
-athavā sva;para-sādharaṇasya sarvaysa, tad api kiṃcit:kāla-niyataṃ sarva:kāla-niyataṃ v"' ety—ādy:artha-niruktiḥ |
-tasyāḥ khaṇḍanā doṣa-jñāpanā | 
+athavā sva;para-sādhāraṇasya sarvasya, tad api kiṃcit:kāla-niyataṃ sarva:kāla-niyataṃ v"' ety—ādy:artha-niruktiḥ |
+[[nirukteḥ|tasyāḥ]] khaṇḍanā doṣa-jñāpanā | 
 **sarvatra** sarvasyāṃ kathāyāṃ vāda;jalpa;vitaṇḍ"—ātmikāyām |
-yadvā **sarvatra** śabde, 'rthe, lakṣye, lakṣaṇe ca nirgataṃ vacanaṃ yebhyas, te nir—vacanā' mūkās tasya bhāvo mūkatvaṃ **nayantaḥ** prāpayanta' **uktv" āpi** uccāry' āpy artha-jñān'-ādhik':otprekṣā-hīn" āp'' īty arthaḥ |
+yadvā **sarvatra** śabde, 'rthe, lakṣye, lakṣaṇe ca nirgataṃ vacanaṃ yebhyas, te nir—vacanā' mūkās tasya bhāvo mūkatvaṃ **nayantaḥ** prāpayanta' **uktv" āpi** uccāry' āpy artha-jñān'-ādhik':otprekṣā-hīnā' ap'' īty arthaḥ |
 
 ''śabd';ārthayor nirvacane nirucyata' iti nirvacane,
 sad;asattve śabd';ārthau na santau; bādhyamānatvāt |
@@ -188,13 +188,11 @@ vīta—rāgāṇām etad:grantha-pravṛtty-aupayikaṃ manana—lakṣaṇaṃ
 **śabd';ārth'** eti |
 'he **dhīrāḥ**, **kīravad etad** asmad-uktaṃ **khaṇḍanam uktvā**, **lokeṣu** bhuvaneṣu, **dig-vijaya-kautukam ātanudhvaṃ** vistārayata |
 kiṃ kurvāṇāḥ?
-**sarvatra** vivāda-padeṣu **śabd'-ārthayoḥ** śabda;tad-arthayor **nirvacanaṃ** niruktis tat-**khaṇḍanayā** tad-an:upapannatva-vyavastāpanena **nir—vacana-bhāvaṃ** mūkatvm **a:kharva—garvān** prauḍh'—āhaṃkārān **nayantaḥ** prāpayantaḥ santa'' ity arthaḥ |
+**sarvatra** vivāda-padeṣu **śabd'-ārthayoḥ** śabda;tad-arthayor **nirvacanaṃ** niruktis tat-**khaṇḍanayā** tad-an:upapannatva-vyavasthāpanena **nir—vacana-bhāvaṃ** mūkatvm **a:kharva—garvān** prauḍh'—āhaṃkārān **nayantaḥ** prāpayantaḥ santa'' ity arthaḥ |
 'mad-uktasya khaṇḍanasya sarva:vādi-vijayaḥ phalam' iti dhvanitam |
 
 #### Notes
 
-_RŚ_ **khaṇḍanā** doṣa-jñāpanā \
-**nir—vacana-bhāvaṃ** nirvacanīyatvam, garv'-āpannānāṃ mūka-bhāvo vā
 
 ### Passage 1
 
@@ -203,12 +201,12 @@ _RŚ_ **khaṇḍanā** doṣa-jñāpanā \
 #### Text
 
 atha kathāyāṃ vādino niyamam etādṛśaṃ manyante: \
-"‹(pramāṇ'—ādayaḥ (sarva:tantra-siddhāntatayā siddhāḥ)₂ pad'-ārthāḥ sant' īti kathakābhyām abhyupeyam)₁›"
+"‹(pramāṇ'—ādayaḥ sarva:tantra-siddhāntatayā siddhāḥ pad'-ārthāḥ sant'' īti kathakābhyām abhyupeyam)₁›"
 
 #### Translation
 
-Now, disputants maintain that something of this kind is an axiom in debates: \
-"The two disputants ought to accept that the means of valid knowledge etc. are categories that have been established by irrefutable facts in any theory."
+Now, disputants hold this restriction in debates: \
+"The two disputants ought to accept that the means of valid knowledge etc. are categories that have been established as doctrines in any theory."
 
 #### ŚM Commentary
 
@@ -230,24 +228,24 @@ pramāṇ'-ādy-abhyupagam'-ādhīnatvaṃ kathāyāḥ khaṇḍayitum upakrama
 #### Text
 
 ›(tad apare na kṣamante | \
-tathā hi pramāṇ'—ādīnāṃ sattvaṃ yad abhyupeyaṃ kathakena, tat kasya hetoḥ?)₁ \
-({kim ‹[[pramāṇādīni|tad]]-an:abhyupagacchadbhyāṃ vādi;prativ'—ādibhyāṃ [[pramāṇādīni|tad]]-abhyupagama-sāhitya-niyatasya vāg-vyavahārasya pravartayitum a:śakyatvāt›?}₁ \
+tathā hi, pramāṇ'—ādīnāṃ sattvaṃ yad abhyupeyaṃ kathakena, tat kasya hetoḥ?)₁ \
+({kiṃ ‹[[pramāṇādīnāṃ sattvam|tad]] an:abhyupagacchadbhyāṃ vādi;prativ'—ādibhyāṃ [[pramāṇādīnāṃ sattvam|tad]]-abhyupagama-sāhitya-niyatasya vāg-vyavahārasya pravartayitum a:śakyatvāt›?}₁ \
 {uta ‹kathakābhyāṃ pravartanīya:vāg-vyavahāraṃ prati hetutvāt›?}₂ \
 {uta ‹loka-siddhatvāt›?}₃ \
-{athavā ‹[[pramāṇādīni|tad]]-abhyupagamasya tattva-nirṇaya;vijaya-phal'-ātiprasañjakatvāt›?}₄)₂
+{athavā ‹[[pramāṇādīnāṃ sattvam|tad]]-an:abhyupagamasya [[tattvanirṇayaḥ|tattva-nirṇaya]];[[vijayaḥ|vijaya]]:phal'-ātiprasañjakatvāt›?}₄)₂
 
 #### Translation
 
 Others cannot put up with this.
-To explain, what causes the existence of the means of valid knowledge etc. that the disputant ought to accept?
-Is it that the act of speaking, which is invariably connected with accepting them, cannot take place between a claimant and a defendant who do not accept them?
-Or is it that they cause the act of speaking that takes place between the disputants?
-Or is it that they are established by the world at large?
-Or, again, is it that accepting them is too closely related to the goal, that is, establishing truth, or victory?
+To explain, why should a disputant accept **that the means of valid knowledge etc. exist**?
+Is it that a claimant and a defendant who do not accept **this** cannot bring about the act of speaking, which is invariably connected with accepting **this**?
+Or is that **this** causes the act of speaking which the disputants are to bring about?
+Or is it that **this** is generally accepted?
+- [!] Or, again, is it that not accepting **this**, leads to undesirable contingencies in the results, that is, of establishing the truth or victory?
 
 #### ŚM Commentary
 
-"**tad apare** ':bheda-vādino na sahanta" iti **tat** ity avaśy':ābhyupagantṛtvam artha-labhyam parāmṛśayati | \
+"**tad apare** ':bheda-vādino na sahanta" iti **tad** ity avaśy':ābhyupagantṛtvam artha-labhyam parāmṛśayati | \
 **kathaken'** eti ekavacanaṃ khāṇḍanik'-ābhiprāyeṇa; taditasya pramāṇ'—ādy-abhyupaganṛtva-siddheḥ | \
 {(yo yaḥ kathakaḥ, sa pramāṇ'—ādy-abhyupagantā | \
 yā yā kathā, sā pramāṇ'—ādy-abhyupagantṛ-—kartṛkā | \
@@ -263,6 +261,10 @@ iti prathama:vikālp'-ārthaḥ |
 
 #### Notes
 
+atiprasaktiḥ "Too much is implied" or "syn. of prasaṅga", also appears in the Kiraṇāvali and Nyāyatattvapariśudhi "the state of cause overextention", "the state of leading to an undesirable contingency"
+
+ 3 RŚ brahmaparijñātam_,_
+ 4 pramāṇaracanatva is a bit weird. Not kathayitum, but khaṇḍayitum is better
 
 ### Passage 3
 
@@ -270,18 +272,16 @@ iti prathama:vikālp'-ārthaḥ |
 
 #### Text
 
-({kim ‹[[pramāṇādīni|tad]]-an:abhyupagacchadbhyāṃ vādi;prativ'—ādibhyāṃ [[pramāṇādīni|tad]]-abhyupagama-sāhitya-niyatasya vāg-vyavahārasya pravartayitum a:śakyatvāt›?}₁ \
-
 {(na tāvad [[tadanupagacchādbhyāṃ vāgvyavahārasya pravartayituṃ na śakyate|ādyaḥ]])₁; \
-({[[pramāṇādīni|tad]]-an:abhyupagacchato 'pi cārvāka;mādhyamik'—āder vāg-vistarāṇāṃ pratīyamānatvāt}₁₋₁, \
-{[[cārvākamādhyamikādivāgvyavahārasya|tasy']] aiva v" ā:niṣpattau bhavatas tan-nirāsa-prayās'-ān:upapatteḥ}₁₋₁₋₁" \
+({[[pramāṇādīnāṃ sattvam|tad]] an:abhyupagacchato 'pi cārvāka;mādhyamik'—āder vāg-vistarāṇāṃ pratīyamānatvāt}₁₋₁, \
+{[[cārvākamādhyamikādivāgvyavahārasya|tasy']] aiva v" ā:niṣpattau bhavatas tan-nirāsa-prayās'-ān:upapatteḥ}₁₋₂" \
 {so 'yam a—pūrvaḥ pramāṇ'-ādi-satt"-ān:abhyupagam'—ātmā vāk-stambhana-mantro bhavat" ābhyūhito nūnaṃ, yasya prabhāvāt bhagavatā Sura-guruṇā lokāyatikāni sūtrāṇi na praṇītāni, Tathāgatena vā madhyam'—āgamā' n' opadiṣṭāḥ, bhagavat—pādena vā bādarāyaṇīyeṣu sūtreṣu bhāṣyaṃ n' ābhāṣi}₁₋₁₋₂)₂}₁ ||3||
 
 #### Translation
 
 To start with, it's not the first,
 because we all know well of the extensive discussions by Cārvākas, Mādhyamikas and others, even though they do not accept them.
-And, if said discussions did not exist, then your efforts in refuting them would be rather inconclusive.
+Otherwise, if it precisely their act of speaking that is not accomplished (as you might say), then your efforts in refuting them would be quite misplaced.
 Surely, you have come up with an unprecedented silencing charm that consists in not accepting that the means of valid knowledge etc. exist.
 Under its sway, the holy teacher of the gods (Bṛhaspati) has never composed the Lokāyatika Sūtras, the Tathāgata has never taught the Mādhyamika texts, and the feet of the revered (Śaṃkarācārya) have never spoken the commentary on Bādarāyaṇa's Sūtras.
 
