@@ -84,6 +84,16 @@ const togglePunctuation = () => {
 
   // Toggle the punctuation state
   punctuationState = !punctuationState;
+
+  // Add or remove a class on the root element to reflect the punctuation state
+  const body = document.body;
+  if (punctuationState) {
+    body.classList.add("punctuation-enabled");
+    body.classList.remove("punctuation-disabled");
+  } else {
+    body.classList.add("punctuation-disabled");
+    body.classList.remove("punctuation-enabled");
+  }
 };
 
 

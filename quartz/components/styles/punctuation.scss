@@ -1,0 +1,44 @@
+.punctuation {
+  cursor: pointer;
+  padding: 0;
+  position: relative;
+  background: none;
+  border: none;
+  width: 20px;
+  height: 20px;
+  margin: 0 10px;
+  text-align: inherit;
+
+  & svg {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: calc(50% - 10px);
+    fill: var(--darkgray);
+    transition: opacity 0.1s ease;
+  }
+
+  // Ensure that only the correct icon is displayed based on state
+  & > #removePunctuation {
+    display: inline;
+  }
+  & > #addPunctuation {
+    display: none;
+  }
+}
+
+// If punctuation is disabled, show the "add punctuation" icon
+body.punctuation-disabled .punctuation > #removePunctuation {
+  display: none;
+}
+body.punctuation-disabled .punctuation > #addPunctuation {
+  display: inline;
+}
+
+// If punctuation is enabled, show the "remove punctuation" icon
+body.punctuation-enabled .punctuation > #removePunctuation {
+  display: inline;
+}
+body.punctuation-enabled .punctuation > #addPunctuation {
+  display: none;
+}
