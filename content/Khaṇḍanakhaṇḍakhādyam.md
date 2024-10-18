@@ -487,7 +487,7 @@ paraṃ, tad brahma-vādibhiḥ saha vidveṣa-vaśān na kathyate, vṛddhair i
 kīdṛśīṃ maryādām ālambya pravṛttāyāṃ kathāyām idam dūṣaṇam uktam?
 {kiṃ pramāṇ'—ādīnāṃ sattvam abhyupagamy' obhābhyāṃ vādibhyāṃ pravartitāyāṃ kathāyām?}₁₋₄₋₁₋₁
 {ut' ā:sattvam abhyupetya?}₁₋₄₋₁₋₂
-{ath' aikena sattvam, apareṇa c' ā:sattvam aṅgīkṛtya?}₁₋₄₋₁₋₃
+{ath' aikena sattvam, apareṇa c' ā:sattvam aṅgīkṛtya?}₁₋₄₋₁₋₃ ^kidrsim-maryadam
 
 {n' [[pramāṇādīnāṃ sattvam abhyupagamya vādibhyāṃ pravartitāyāṃ kathāyāṃ dūṣaṇam uktam|ādyaḥ]];
 abhyupagata:pramāṇ'—ādi-sattvaṃ praty etādṛśa:paryanuyog'-ān:avakāśāt |}₁₋₄₋₁₋₁
@@ -499,6 +499,20 @@ pramāṇ'—ādy-abhyupagantur eva yāvan niyama-bhara-yantriṇā mahatī syā
 #### Translation
 
 #### ŚM Commentary
+
+dūṣaṇ'-ābhidhānasy' ā:śakyatvaṃ vyutpādayati ‘[[Khaṇḍanakhaṇḍakhādyam#^kidrsim-maryadam|kīdṛśīm]]’ iti |
+kathāyām eva dūṣaṇ'-ābhidhāna-dharuvy'—ādayaṃ vikalp'-āvasaraḥ |
+‘[[Khaṇḍanakhaṇḍakhādyam#^fbcee0|etādṛś']]’ eti |
+‘‘yadi pramāṇ'—ādīni na santi, tadā vyavahāra' eva dharmī na siddhyed’ ity—ādy etādṛśa:paryanuyog'-ān:avakāśād’ ity arthaḥ |
+‘[[Khaṇḍanakhaṇḍakhādyam#^fbcee0|svato 'p']]’ īti |
+‘‘tvam api pramāṇ'—ādi-sattvam an:aṅgīkṛtya pravṛtta'’ iti tan—mūlako vyāghātas tav' āpi tulya'’ ity arthaḥ |
+‘[[Khaṇḍanakhaṇḍakhādyam#^fbcee0|tath" aiv']]’ eti |
+‘prakṛta:nigrah'-ādhikaraṇa-kathā-pravṛttivat kath"-āntara-pravṛttir api na dur—labh"’ ety arthaḥ |
+‘nanv, etāvatā kathā-pravṛttiḥ samāhitā |
+vyāghātas tu na samāhita'’ ity āha – ‘[[Khaṇḍanakhaṇḍakhādyam#^fbcee0|ubhay']]’ eti |
+‘pramāṇ'—ādikam antareṇa vyavahār'-ā:siddhi—lakṣaṇo vyāghātas tvayā dattaḥ, sa mayā n' eṣyata’ ity arthaḥ |
+‘nanu, tvad-an:iṣṭo 'py ayaṃ doṣa' eva; na h' īṣṭatvam api doṣatve tantram’ ity ata' āha – 
+‘[[Khaṇḍanakhaṇḍakhādyam#^fbcee0|anyath"]]’ eti |
 
 #### RŚ Commentary
 
