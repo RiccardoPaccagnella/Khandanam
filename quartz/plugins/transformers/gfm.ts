@@ -10,7 +10,7 @@ export interface Options {
 }
 
 const defaultOptions: Options = {
-  enableSmartyPants: true,
+  enableSmartyPants: false,
   linkHeadings: true,
 }
 
