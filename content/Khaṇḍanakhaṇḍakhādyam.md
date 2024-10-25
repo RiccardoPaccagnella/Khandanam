@@ -41,7 +41,7 @@ tam ] RŚ, tad ŚM
 a:vikalpa-viṣaya' ekaḥ \
 sthāṇuḥ puruṣaḥ śruto 'sti yaḥ śrutiṣu | \
 Īśvaram Umayā na paraṃ \
-vande 'nu may" āpi tam adhigatam ||1|| ^ddae9b
+vande 'nu may" āpi tam adhigatam ||1|| ^v1
 
 #### Translation
 
@@ -49,7 +49,7 @@ I pay homage to that Lord who is beyond the scope of opposites, one, the steadfa
 
 #### Notes
 
-[[Khaṇḍanakhaṇḍakhādyam#^ddae9b|avikalpaviṣayaḥ]]:
+[[Khaṇḍanakhaṇḍakhādyam#^v1|avikalpaviṣayaḥ]]:
     
 ~~a:(vikalpa:viṣayaḥ) > sa vikalpa' eva viṣayo na bhavati~~  \
 a:(vikalpa-viṣayaḥ) > sa vikalpasya viṣayo na bhavati  \
@@ -76,9 +76,9 @@ Adverb: \
 ~~(a—vikalpa):viṣayaḥ > vikalpo na bhavati yathā, tathā > a—vikalpaṃ ca sa viṣayaś ca~~ \
 (a—vikalpa)—viṣayaḥ > vikalpo na bhavati yathā, tathā > a—vikalpaṃ viṣayo yasya, saḥ
 
-[[Khaṇḍanakhaṇḍakhādyam#^ddae9b|eko]] '—dvitīyaḥ
+[[Khaṇḍanakhaṇḍakhādyam#^v1|eko]] '—dvitīyaḥ
 
-[[Khaṇḍanakhaṇḍakhādyam#^ddae9b|puruṣaḥ]] kṣetra-jñaḥ \
+[[Khaṇḍanakhaṇḍakhādyam#^v1|puruṣaḥ]] kṣetra-jñaḥ \
 "kṣetra-jñaṃ c' āpi māṃ viddhi sarva:kṣetreṣu bhārata" ([[Bhagavadgītā|BhaGī]]. 13.2) 
 
 *ŚM* ‘sarvāḥ śrutaya'’ ity anena ‘karma-kāṇḍasy' āpi brahma—paratvam’ iti dhvanitam  \
@@ -155,7 +155,7 @@ vasantatilakā vṛttam
 śabd';ārtha-nirvacana-khaṇḍanayā nayantaḥ \
 sarvatra nir—vacana-bhāvam a:kharva—garvān | \
 dhīrā', yath'—oktam api kīravad etad uktvā  \
-lokeṣu dig-vijaya-{3}kautukam ātanudhvam ||3|| ^03e633
+lokeṣu dig-vijaya-{3}kautukam ātanudhvam ||3|| ^v3
 
 #### Translation
 
@@ -163,32 +163,32 @@ Strong-minded men! Spread the joy of victory in all directions by repeating my w
 
 #### RŚ Commentary
 
-śruti-janita:bodha-rakṣām eva khaṇḍana-prayojanaṃ matvā parān śikṣayati — [[Khaṇḍanakhaṇḍakhādyam#^03e633|śabd';ārth']] eti |
+śruti-janita:bodha-rakṣām eva khaṇḍana-prayojanaṃ matvā parān śikṣayati — [[Khaṇḍanakhaṇḍakhādyam#^v3|śabd';ārth']] eti |
 ‘yath"-oktam etad:grantha-svarūpaṃ śukavad uktv" āpi dig-vijayena yat kautukaṃ, tat vistārayata dikṣv’ ity arthaḥ |
-‘ku:tark'-ābhyāsa-rasikānāṃ parājayaḥ [[Khaṇḍanakhaṇḍakhādyam#^03e633|kautukaṃ]] krīḍā, tathā c' edṛśa:kṛīḍ" aiva bahir—mukhatā-daśāyāṃ kāry"’ ety upadeśaḥ |
+‘ku:tark'-ābhyāsa-rasikānāṃ parājayaḥ [[Khaṇḍanakhaṇḍakhādyam#^v3|kautukaṃ]] krīḍā, tathā c' edṛśa:kṛīḍ" aiva bahir—mukhatā-daśāyāṃ kāry"’ ety upadeśaḥ |
 ‘kautukam āścaryaṃ loke hi darśayat'’ ety api kecit |
-‘[[Khaṇḍanakhaṇḍakhādyam#^03e633|a:kharva—garvān]] an:alpa—garvān śabdaś c' ārthaś ca tayor [[Khaṇḍanakhaṇḍakhādyam#^03e633|nirvacanaṃ]]  niruktis 'tattv'-ānubhūtiḥ pram"’ ety atra ‘tasya bhāvas tattvam’ iti ‘kim ayaṃ yaugikaḥ śabdaḥ? kiṃ v" ā—khaṇḍam eva tattva:padaṃ kvacid arthe rūḍham?’ iti śabda-niruktiḥ |
+‘[[Khaṇḍanakhaṇḍakhādyam#^v3|a:kharva—garvān]] an:alpa—garvān śabdaś c' ārthaś ca tayor [[Khaṇḍanakhaṇḍakhādyam#^v3|nirvacanaṃ]]  niruktis 'tattv'-ānubhūtiḥ pram"’ ety atra ‘tasya bhāvas tattvam’ iti ‘kim ayaṃ yaugikaḥ śabdaḥ? kiṃ v" ā—khaṇḍam eva tattva:padaṃ kvacid arthe rūḍham?’ iti śabda-niruktiḥ |
 ‘tattvaṃ yady a:bādhitaṃ rūpaṃ, tad api kiṃ svasy' ā:bāditam, uta parasya?
 tatr' āpi kiṃ yasya kasyacid, atha sarvasya? 
 athavā sva;para-sādhāraṇasya sarvasya, tad api kiṃcit:kāla-niyataṃ sarva:kāla-niyataṃ v"’ ety—ādy:artha-niruktiḥ |
 [[niruktiḥ|tasyāḥ]] khaṇḍanā doṣa-jñāpanā | 
-[[Khaṇḍanakhaṇḍakhādyam#^03e633|sarvatra]] sarvasyāṃ kathāyāṃ vāda;jalpa;vitaṇḍ"—ātmikāyām |
-yadvā ‘[[Khaṇḍanakhaṇḍakhādyam#^03e633|sarvatra]] śabde, 'rthe, lakṣye, lakṣaṇe ca nirgataṃ vacanaṃ yebhyas, te nir—vacanā' mūkās tasya bhāvo mūkatvaṃ [[Khaṇḍanakhaṇḍakhādyam#^03e633|nayantaḥ]] prāpayanta' [[Khaṇḍanakhaṇḍakhādyam#^03e633|uktv" āpi]] uccāry' āpy artha-jñān'-ādhik':otprekṣā-hīnā' ap'’ īty arthaḥ |
+[[Khaṇḍanakhaṇḍakhādyam#^v3|sarvatra]] sarvasyāṃ kathāyāṃ vāda;jalpa;vitaṇḍ"—ātmikāyām |
+yadvā ‘[[Khaṇḍanakhaṇḍakhādyam#^v3|sarvatra]] śabde, 'rthe, lakṣye, lakṣaṇe ca nirgataṃ vacanaṃ yebhyas, te nir—vacanā' mūkās tasya bhāvo mūkatvaṃ [[Khaṇḍanakhaṇḍakhādyam#^v3|nayantaḥ]] prāpayanta' [[Khaṇḍanakhaṇḍakhādyam#^v3|uktv" āpi]] uccāry' āpy artha-jñān'-ādhik':otprekṣā-hīnā' ap'’ īty arthaḥ |
 
 ‘'śabd';ārthayor nirvacane nirucyata’ iti nirvacane,
 sad;asattve śabd';ārthau na santau; bādhyamānatvāt |
 n' āpy ‘a:santau; pratyakṣatvād’ iti tat-khaṇḍanā ‘na san, n' āpy asan, n' āpi sad;asat, kiṃtv a:nirvacanīyaṃ śabd'-ārtha-yugalam’ ity evaṃ—rūpā |
-tathā, [[Khaṇḍanakhaṇḍakhādyam#^03e633|sarvatra]] dev';āsura;mānuṣa-yoniṣu ye' bhimānā' garv'-āpara:paryāyā' ahaṃkārā' a:karvāś ca te garvāḥ tān nir—vacana-bhāvam a:nirvacanīyatvaṃ nayanto ‘dhyāsa—rūpatām āpādayanta'’ iti yāvat |
+tathā, [[Khaṇḍanakhaṇḍakhādyam#^v3|sarvatra]] dev';āsura;mānuṣa-yoniṣu ye' bhimānā' garv'-āpara:paryāyā' ahaṃkārā' a:karvāś ca te garvāḥ tān nir—vacana-bhāvam a:nirvacanīyatvaṃ nayanto ‘dhyāsa—rūpatām āpādayanta'’ iti yāvat |
 
 ...
 
 #### ŚM Commentary
 
 vīta—rāgāṇām etad:grantha-pravṛtty-aupayikaṃ manana—lakṣaṇaṃ prayojanaṃ darśayitvā rāgiṇām api vijigīṣūṇāṃ vijaya—lakṣaṇaṃ prayojanam āha — 
-‘[[Khaṇḍanakhaṇḍakhādyam#^03e633|śabd';ārth']]’ eti |
-‘he [[Khaṇḍanakhaṇḍakhādyam#^03e633|dhīrāḥ]], [[Khaṇḍanakhaṇḍakhādyam#^03e633|kīravad etad]] asmad-uktaṃ [[Khaṇḍanakhaṇḍakhādyam#^03e633|khaṇḍanam uktvā]], [[Khaṇḍanakhaṇḍakhādyam#^03e633|lokeṣu]] bhuvaneṣu, [[Khaṇḍanakhaṇḍakhādyam#^03e633|dig-vijaya-kautukam ātanudhvaṃ]] vistārayata |
+‘[[Khaṇḍanakhaṇḍakhādyam#^v3|śabd';ārth']]’ eti |
+‘he [[Khaṇḍanakhaṇḍakhādyam#^v3|dhīrāḥ]], [[Khaṇḍanakhaṇḍakhādyam#^v3|kīravad etad]] asmad-uktaṃ [[Khaṇḍanakhaṇḍakhādyam#^v3|khaṇḍanam uktvā]], [[Khaṇḍanakhaṇḍakhādyam#^v3|lokeṣu]] bhuvaneṣu, [[Khaṇḍanakhaṇḍakhādyam#^v3|dig-vijaya-kautukam ātanudhvaṃ]] vistārayata |
 kiṃ kurvāṇāḥ?
-[[Khaṇḍanakhaṇḍakhādyam#^03e633|sarvatra]] vivāda-padeṣu [[Khaṇḍanakhaṇḍakhādyam#^03e633|śabd'-ārthayoḥ]] śabda;tad-arthayor [[Khaṇḍanakhaṇḍakhādyam#^03e633|nirvacanaṃ]] niruktis tat-[[Khaṇḍanakhaṇḍakhādyam#^03e633|khaṇḍanayā]] tad-an:upapannatva-vyavasthāpanena [[Khaṇḍanakhaṇḍakhādyam#^03e633|nir—vacana-bhāvaṃ]] mūkatvm [[Khaṇḍanakhaṇḍakhādyam#^03e633|a:kharva—garvān]] prauḍh'—āhaṃkārān [[Khaṇḍanakhaṇḍakhādyam#^03e633|nayantaḥ]] prāpayantaḥ santa'’ ity arthaḥ |
+[[Khaṇḍanakhaṇḍakhādyam#^v3|sarvatra]] vivāda-padeṣu [[Khaṇḍanakhaṇḍakhādyam#^v3|śabd'-ārthayoḥ]] śabda;tad-arthayor [[Khaṇḍanakhaṇḍakhādyam#^v3|nirvacanaṃ]] niruktis tat-[[Khaṇḍanakhaṇḍakhādyam#^v3|khaṇḍanayā]] tad-an:upapannatva-vyavasthāpanena [[Khaṇḍanakhaṇḍakhādyam#^v3|nir—vacana-bhāvaṃ]] mūkatvm [[Khaṇḍanakhaṇḍakhādyam#^v3|a:kharva—garvān]] prauḍh'—āhaṃkārān [[Khaṇḍanakhaṇḍakhādyam#^v3|nayantaḥ]] prāpayantaḥ santa'’ ity arthaḥ |
 ‘mad-uktasya khaṇḍanasya sarva:vādi-vijayaḥ phalam’ iti dhvanitam |
 
 #### Notes
@@ -232,7 +232,7 @@ tathā hi, pramāṇ'—ādīnāṃ sattvaṃ yad abhyupeyaṃ kathakena, tat ka
 ({kiṃ ‹[[pramāṇādīnāṃ sattvam|tad]] an:abhyupagacchadbhyāṃ vādi;prativ'—ādibhyāṃ [[pramāṇādīnāṃ sattvam|tad]]-abhyupagama-sāhitya-niyatasya vāg-vyavahārasya pravartayitum a:śakyatvāt›?}₁ \
 {uta ‹kathakābhyāṃ pravartanīya:vāg-vyavahāraṃ prati hetutvāt›?}₂ \
 {uta ‹loka-siddhatvāt›?}₃ \
-{athavā ‹[[pramāṇādīnāṃ sattvam|tad]]-an:abhyupagamasya [[tattvanirṇayaḥ|tattva-nirṇaya]];[[vijayaḥ|vijaya]]:phal'-ātiprasañjakatvāt›?}₄)₂ ^83bce2
+{athavā ‹[[pramāṇādīnāṃ sattvam|tad]]-an:abhyupagamasya [[tattvanirṇayaḥ|tattva-nirṇaya]];[[vijayaḥ|vijaya]]:phal'-ātiprasañjakatvāt›?}₄)₂ ||2|| ^p2
 
 #### Translation
 
@@ -245,8 +245,8 @@ Or, again, is it that not accepting **this**, leads to undesirable contingencies
 
 #### ŚM Commentary
 
-‘[[Khaṇḍanakhaṇḍakhādyam#^83bce2|tad apare]] ':bheda-vādino na sahanta’ iti ‘[[Khaṇḍanakhaṇḍakhādyam#^83bce2|tad]]’ ity avaśy':ābhyupagantṛtvam artha-labhyam parāmṛśayati | \
-‘[[Khaṇḍanakhaṇḍakhādyam#^83bce2|kathaken']]’ eti ekavacanaṃ khāṇḍanik'-ābhiprāyeṇa; taditasya pramāṇ'—ādy-abhyupaganṛtva-siddheḥ | \
+‘[[Khaṇḍanakhaṇḍakhādyam#^p2|tad apare]] ':bheda-vādino na sahanta’ iti ‘[[Khaṇḍanakhaṇḍakhādyam#^p2|tad]]’ ity avaśy':ābhyupagantṛtvam artha-labhyam parāmṛśayati | \
+‘[[Khaṇḍanakhaṇḍakhādyam#^p2|kathaken']]’ eti ekavacanaṃ khāṇḍanik'-ābhiprāyeṇa; taditasya pramāṇ'—ādy-abhyupaganṛtva-siddheḥ | \
 {(yo yaḥ kathakaḥ, sa pramāṇ'—ādy-abhyupagantā | \
 yā yā kathā, sā pramāṇ'—ādy-abhyupagantṛ-kartṛkā | \
 yatra yatra kathakatvaṃ, tatra pramāṇ'—ādy-abhyupagamaḥ)ᵥ}₁ | \
@@ -276,7 +276,7 @@ atiprasaktiḥ "Too much is implied" or "syn. of prasaṅga", also appears in th
 {(na tāvad [[pramāṇādy anupagacchadbhyāṃ vāgvyavahārasya pravartayituṃ na śakyate|ādyaḥ]])₁; \
 ({[[pramāṇādīnāṃ sattvam|tad]] an:abhyupagacchato 'pi cārvāka;mādhyamik'—āder vāg-vistarāṇāṃ pratīyamānatvāt}₁₋₁, \
 {[[cārvākamādhyamikādivāgvyavahāraḥ|tasy']] aiva v" ā:niṣpattau bhavatas tan-nirāsa-prayās'-ān:upapatteḥ}₁₋₂)₂ \
-so 'yam a—pūrvaḥ pramāṇ'-ādi-satt"-ān:abhyupagam'—ātmā vāk-stambhana-mantro bhavat" ābhyūhito nūnaṃ, yasya prabhāvāt bhagavatā Sura-guruṇā lokāyatikāni sūtrāṇi na praṇītāni, Tathāgatena vā madhyam'—āgamā' n' opadiṣṭāḥ, bhagavat—pādena vā bādarāyaṇīyeṣu sūtreṣu bhāṣyaṃ n' ābhāṣi ||3|| ^371db9
+so 'yam a—pūrvaḥ pramāṇ'-ādi-satt"-ān:abhyupagam'—ātmā vāk-stambhana-mantro bhavat" ābhyūhito nūnaṃ, yasya prabhāvāt bhagavatā Sura-guruṇā lokāyatikāni sūtrāṇi na praṇītāni, Tathāgatena vā madhyam'—āgamā' n' opadiṣṭāḥ, bhagavat—pādena vā bādarāyaṇīyeṣu sūtreṣu bhāṣyaṃ n' ābhāṣi ||3|| ^p3
 
 #### Translation
 
@@ -288,7 +288,7 @@ Under its sway, the holy teacher of the gods (Bṛhaspati) has never composed th
 
 #### ŚM Commentary
 
-‘[[Khaṇḍanakhaṇḍakhādyam#^371db9|cārvāka']]’ iti |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p3|cārvāka']]’ iti |
 ‘yady api cārvākasya₁ pratyakṣ'-ābhyupagamo 'sti, tath" āpy anumān'-aika:gamya:tat-prāmāṇyasy' ānumān'-ān:abhyupagame 'n:abhyupagama'’ ity abhipretya tad₁-vāg-vyavahāre vyabhicāro darśitaḥ |
 athavā, yat:kiṃcit:pramāṇ'-ābhyupagamaḥ, sakala:pramāṇ'-ābhyupagamo vā kathā-vyāpakaḥ?
 ādye mādhyamika-kathāyāṃ vyabhicāro, 'ntye cārvāka-kathāyām |
@@ -297,12 +297,12 @@ tathā ca, ‘cārvākasya pramāṇ'-ābhyupagameti(?) tark'-ābhyupagamo n' ā
 cārvāk'-āikadeśī vā cārvākaḥ |
 
 ‘nanu cārvāk'—āder vāg-vyavahāra eva n' āsti, (?) kutra vyabhicāraḥ?’
-ity ata' āha — ‘[[Khaṇḍanakhaṇḍakhādyam#^371db9|tasy' aiv']]’ eti
+ity ata' āha — ‘[[Khaṇḍanakhaṇḍakhādyam#^p3|tasy' aiv']]’ eti
 ‘tvad-darśane tad-ukta:yukti-nirākaraṇān yath"-ān:upapattir eva tad-vāg-vyavahāre pramāṇam’ ity arthaḥ |
-s'—opahāsam āha — ‘[[Khaṇḍanakhaṇḍakhādyam#^371db9|s" eyam]]’ iti 
-[[Khaṇḍanakhaṇḍakhādyam#^371db9|Tathāgatena]] Buddhena |
-madhyama—lakṣaṇ" āgamā [[Khaṇḍanakhaṇḍakhādyam#^371db9|madhyam':āgamā]] yad-adhyayanān ‘madhyamika'’ ity ucyate |
-[[Khaṇḍanakhaṇḍakhādyam#^371db9|bhagavat-pādena]] Śaṃkarācārya-pādena, Bādarāyaṇo Vyāsaḥ |
+s'—opahāsam āha — ‘[[Khaṇḍanakhaṇḍakhādyam#^p3|s" eyam]]’ iti 
+[[Khaṇḍanakhaṇḍakhādyam#^p3|Tathāgatena]] Buddhena |
+madhyama—lakṣaṇ" āgamā [[Khaṇḍanakhaṇḍakhādyam#^p3|madhyam':āgamā]] yad-adhyayanān ‘madhyamika'’ ity ucyate |
+[[Khaṇḍanakhaṇḍakhādyam#^p3|bhagavat-pādena]] Śaṃkarācārya-pādena, Bādarāyaṇo Vyāsaḥ |
 atra sarvatra tvad-ukta:vyāpter vyabhicāra' iti bhāvaḥ |
 
 #### Notes
@@ -313,28 +313,28 @@ atra sarvatra tvad-ukta:vyāpter vyabhicāra' iti bhāvaḥ |
 
 #### Text
 
-{‘‹pramāṇ'—ādy an:abhyupagamy' āpi pravartayantu nāma [[cārvākamādhyamikādayaḥ|te]] vāco bhaṅgīḥ |
-[[vāco bhāṅgayaḥ|tās]] tu sādhana-bādhana—kṣamā' na bhavanti tāvat" eti brūma'›’
-iti cen, ^96fb79
+{‘‹pramāṇ'—ādy an:abhyupagamy' āpi pravartayantu nāma [[cārvākamādhyamikādayaḥ|te]] vācobhaṅgīḥ |
+[[vācobhāṅgayaḥ|tās]] tu sādhana-bādhana—kṣamā' na bhavanti tāvat" eti brūma'›’
+iti cen, ^p41
 
 na: ‘(pramāṇ'—ādy an:abhyupagamya pravartitatvaṃ [[vāgvyavahāraḥ|tadīya]]:sādhana-bādhan'-ā:kṣamatāyāṃ na niyāmakaṃ, 
 kiṃtu sad:vacan'-ābhāsa-lakṣaṇa-yogitvam’ ity avaśy':ābhyupeyaṃ bhavatā)₁,
-(yen', ābhyupagamy' āpi pramāṇ'—ādīni pravartitā' mat'-āntar'-ānusāribhir vyavahārā' abhyupagata—pramāṇ'—ādi:sattvair mat'-āntara-vyavahāribhir aparair ‘a:tathā:bhūtā'’ iti kathyante)₂ | ^dacd02
+(yen', ābhyupagamy' āpi pramāṇ'—ādīni pravartitā' mat'-āntar'-ānusāribhir vyavahārā' abhyupagata—pramāṇ'—ādi:sattvair mat'-āntara-vyavahāribhir aparair ‘a:tathā:bhūtā'’ iti kathyante)₂ | ^p42
 
-yadi tv asmad-vacasi sad:vacan'-ābhāsa-lakṣaṇaṃ na bhavān darśayitum īṣṭe, tad" ‘ān:abhyupagamya pramāṇ'—ādīni bhavatā pravartito 'yaṃ vyavahāra'’ iti śata:kṛtas tvay" ocyamāne 'pi n' āsmākam ādaraḥ |
-anyath", ‘ābhyupagamya pramāṇ'—ādīni bhavatā pravartito 'yaṃ vayvahāra'’ ity etāvatā ‘bhavadīyo vyavahār'-ābhāsa'’ ity asmābhir api vaktuṃ śakyata eva}₁₋₃ ||4|| ^20a41d
+yadi tv asmad-vacasi sad:vacan'-ābhāsa-lakṣaṇaṃ na bhavān darśayitum īṣṭe, tad" ‘ān:abhyupagamya pramāṇ'—ādīni bhavatā pravartito 'yaṃ vyavahāra'’ iti śata:kṛtvas tvay" ocyamāne 'pi n' āsmākam ādaraḥ |
+anyath", ‘ābhyupagamya pramāṇ'—ādīni bhavatā pravartito 'yaṃ vayvahāra'’ ity etāvatā ‘bhavadīyo vyavahār'-ābhāsa'’ ity asmābhir api vaktuṃ śakyata eva}₁₋₃ ||4|| ^p43
 
 #### Translation
 
-If you were to say ‘We reply: Let them indeed proceed with their bogus talk even though they have not accepted the means of valid knowledge etc.
-It will not be capable of proving or refuting a thing in that way,’
+If you were to say ‘Let them indeed proceed with their ways of speaking even though they have not accepted the means of valid knowledge etc.
+but they will not be capable of proving or refuting a thing by doing so,’
 you'd be wrong.
 You must certainly accept this: 
-The fact that an utterance was produced by someone who did not accept the means of valid knowledge etc. does not determine that utterance's ability to prove or refute.
-Rather, it's the fact that said utterance has characteristics that make it resemble a correct assertion (when, in fact, it isn't).
+The fact that an utterance was produced by someone who did not accept the means of valid knowledge etc. does not make that utterance unable to prove or refute.
+Rather, it's the fact that said utterance has characteristics of a pseudo-truth.
 For the utterances that the followers of a given school will have produced after having accepted the means of valid knowledge etc. are said to be unfounded by other speakers of a different school who have also accepted the existence of the means of valid knowledge etc.
 
-But, if you cannot muster the effort to show that my speech itself has characteristics that make it resemble a correct assertion, you can repeat ‘You have produced this utterance without accepting the means of valid knowledge etc.’ a hundred times — I won't tip my hat to it.
+But, if you are not able to show that my speech itself has characteristics of a pseudo-truth, you can repeat ‘You have produced this utterance without accepting the means of valid knowledge etc.’ a hundred times — I won't care.
 Otherwise, I too might very well say that, by the very fact that you have produced your utterance by accepting the means of valid knowledge etc., your utterance is bogus.
 
 #### ŚM Commentary
@@ -342,12 +342,12 @@ Otherwise, I too might very well say that, by the very fact that you have produc
 ‘‹nanu, cārvāk'—ādi-vyavahāro rathyā-puruṣa-vāg-vyavahāravad an:upādeya' eva |
 pramāṇ'-ādy-abhyupagamas tu sādhana;bādhana-kṣama-vyavahāra-vyāpakatvena may" opanyastaḥ |
 tatra ca na vyabhicāraḥ?›’
-ity āha ‘[[Khaṇḍanakhaṇḍakhādyam#^96fb79|pramāṇ'—ād']]’ īti |
+ity āha ‘[[Khaṇḍanakhaṇḍakhādyam#^p41|pramāṇ'—ād']]’ īti |
 ‘sādhana;bādhanayoḥ phalata' aikye 'pi loka-prasiddham anuruddhya bheden' opanyāsaḥ |
 evam api, mādhyamik'—ādi-vāg-vyavahāra eva vyabhicāras; tasy' āpi sādhana;bādhana-kṣamatvāt |
-na ca ‘mādhyamik'—ādi-vāg-vyavahāraḥ sādhana;bādhan'-ā:kṣamaḥ; pramāṇ'—ādy an:abhyupagamya kṛtatvāt, rathyā-puruṣa-vyavahāravad’ ity anumānān mādhyamik'—ādi-vāg-vyavahārasya sādhana;bādhan'-ā:kṣamatva-siddhiḥ; tasya sad:vacan'-ābhāsa-lakṣaṇa-yogitv'-opādhika-valitatvād’ ity āha ‘[[Khaṇḍanakhaṇḍakhādyam#^96fb79|pramāṇ'—ād']]’ īti |
-[[Khaṇḍanakhaṇḍakhādyam#^dacd02|sad:vacan'-ābhāsaḥ]] ‘sphuṭ':āvabhāso vyabhicār'—ādis tal-lakṣaṇaṃ sādhy'-ātyant'-ābhāva-sāmānādhikaraṇy'—ādi, tad-yogitvam’ ity arthaḥ |
-tathā ca, ‘vāg-vyavahāra-sādhana;bādhan'-ā:kṣamatve sādhan'-ābhāsatvaṃ duṣaṇ'-ābhāsatvaṃ tantram |
+na ca ‘mādhyamik'—ādi-vāg-vyavahāraḥ sādhana;bādhan'-ā:kṣamaḥ; pramāṇ'—ādy an:abhyupagamya kṛtatvāt, rathyā-puruṣa-vyavahāravad’ ity anumānān mādhyamik'—ādi-vāg-vyavahārasya sādhana;bādhan'-ā:kṣamatva-siddhiḥ; tasya sad:vacan'-ābhāsa-lakṣaṇa-yogitv'-opādhika-valitatvād’ ity āha ‘[[Khaṇḍanakhaṇḍakhādyam#^p41|pramāṇ'—ād']]’ īti |
+[[Khaṇḍanakhaṇḍakhādyam#^p42|sad:vacan'-ābhāsaḥ]] ‘sphuṭ':āvabhāso vyabhicār'—ādis tal-lakṣaṇaṃ sādhy'-ātyant'-ābhāva-sāmānādhikaraṇy'—ādi, tad-yogitvam’ ity arthaḥ |
+tathā ca, ‘vāg-vyavahāra-sādhana;bādhan'-ā:kṣamatve sādhan'-ābhāsatvaṃ dūṣaṇ'-ābhāsatvaṃ tantram |
 na tu pramāṇ'—ādy-an:abhyupagantṛ-praṇītatvam’ iti bhāvaḥ |
 sad:vacan'-ābhāsaṃ nigrahasthānam |
 [[sadvacanābhāsaḥ|tal]]-lakṣaṇaṃ kath"-āṅga-tattva-jñān'-ābhāva—liṅgam |
@@ -357,18 +357,18 @@ sad:vacan'-ābhāsaṃ nigrahasthānam |
 
 _prathama:vikalpa-khaṇḍan'-ākṣepaḥ_
 
-[[Khaṇḍanakhaṇḍakhādyam#^96fb79|vāco bhāṅgīḥ]] ‘sādhana;duṣaṇa-prakārāt kathā'’ iti yāvat |
-‘tās tu vāco bhaṅgya'’ ity arthaḥ |
+[[Khaṇḍanakhaṇḍakhādyam#^p41|vācobhāṅgīḥ]] ‘sādhana;dūṣaṇa-prakārān, kathā'’ iti yāvat |
+‘tās tu vācobhaṅgya'’ ity arthaḥ |
 tathā ca, ‘tāḥ kath"-ābhāsā'’ iti |
-[[Khaṇḍanakhaṇḍakhādyam#^96fb79|sādhanaṃ]] sva-pakṣa-sthāpanam, [[Khaṇḍanakhaṇḍakhādyam#^96fb79|bādhanaṃ]] para-pakṣasya duṣṭatva-jñāpanaṃ tat [[Khaṇḍanakhaṇḍakhādyam#^96fb79|kṣamāḥ]] sva-pakṣa-pramiti;para-pakṣasy' ā:bhāva-pramiti-janakā ity arthaḥ | \
-‘[[Khaṇḍanakhaṇḍakhādyam#^dacd02|tadīy"]]’ eti ‘vāg-vyavahārīy"’ ety arthaḥ |
+[[Khaṇḍanakhaṇḍakhādyam#^p41|sādhanaṃ]] sva-pakṣa-sthāpanam, [[Khaṇḍanakhaṇḍakhādyam#^p41|bādhanaṃ]] para-pakṣasya duṣṭatva-jñāpanaṃ tat-[[Khaṇḍanakhaṇḍakhādyam#^p41|kṣamāḥ]] sva-pakṣa-pramiti;para-pakṣasy' ā:bhāva-pramiti-janakā ity arthaḥ | \
+‘[[Khaṇḍanakhaṇḍakhādyam#^p42|tadīy"]]’ eti ‘vāg-vyavahārīy"’ ety arthaḥ |
 tathā ca, vāg-vyavahāratv'-āvacchinna:sādhya-vyāpaka:sad:vacan'-ābhāsa-lakṣaṇa-yogitvam upādhir anyathā; ghaṭ'—ādau sādhy'-ā:vyāpakat"-āpatteḥ |
 tathā ca, ‘kathā-viśeṣa-vyāpakatāyāṃ na vyabhicāra'’ iti bhāvaḥ |
-‘[[Khaṇḍanakhaṇḍakhādyam#^96fb79|tāvat"]]’ eti ‘tath" ān:abhyupagamya pravartate 'p'’ īty arthaḥ |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p41|tāvat"]]’ eti ‘tath" ān:abhyupagamya pravartate (pravartane em. (!)) 'p'’ īty arthaḥ |
 
 _prathama:vikalpa-khaṇḍan'-ākṣepa-parihāraḥ_
 
-[[Khaṇḍanakhaṇḍakhādyam#^dacd02|sad:vacanam]] ‘sad:vākyaṃ sādhana;bādhana-kṣamaṃ vākyam’ ity arthaḥ |
+[[Khaṇḍanakhaṇḍakhādyam#^p42|sad:vacanam]] ‘sad:vākyaṃ sādhana;bādhana-kṣamaṃ vākyam’ ity arthaḥ |
 tathā bhāsate na tu tat, yad vacanaṃ, tat sad:vacan'-ābhāsaṃ tasya yal-lakṣaṇaṃ hetv-ābhās'—ādy ābhāsībhūt':ārtha-bodhakatven' aiva vākyam ābhāsībhavati |
 tathā c', ‘āyaṃ hetur vyabhicār'—ādi:doṣ'-ānyataravān’ ity evaṃ vyabhicār'—ādir darśanīyaḥ |
 ‘sat ca tasmin, sādhako bādhako v" ārth'-ābhāso bhavat'’ īty arthaḥ | 
@@ -376,18 +376,39 @@ tathā c', ‘āyaṃ hetur vyabhicār'—ādi:doṣ'-ānyataravān’ ity eva�
 ‘anye tu ‘‘sad:vacan'-ābhāsā' nigrahasthānaṃ tal-lakṣaṇaṃ kath"-āṅgaṃ tattva-jñān'-ābhāva-liṅgaṃ tadvattvam’ ity artha'’ iti vyācakṣate |
 prayojako hi dharma' upādhir bhavati |
 na ca tasmin saty api kva bhavatas tat-prayojyatvam’ ity āśayen' āha –
-‘[[Khaṇḍanakhaṇḍakhādyam#^dacd02|yena kathyanta]]’ ity arthaḥ (?) |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p42|yena kathyanta]]’ ity arthaḥ (?) |
 ‘'sad:vacan'-ābhāsa-lakṣaṇa-yogitvam ev' ānvaya;vyatirekābhyāṃ kathāyāṃ kārya-kṣamatv'-ābhāva-prayojakam |
 na tu bhavad-uktaṃ pramāṇ'-ābhāvād’ ity āśayaḥ |
 evaṃ vyākhyāyamāne vyāpaka-vyabhicārād ādarśanam a:tantraṃ syāt |
 
 yadvā, ‘vyāpya-vṛtti-vyatirekiṇor vyatireka-vyāptāv iv' ānvaya-vyāptir ity abhiprāyeṇ' ān:abhyupagata:vyatireke 'pi na kath"-ābhāsatva-vyatireka'’ ity āha –
 
-‘[[Khaṇḍanakhaṇḍakhādyam#^dacd02|(a:?)tathā:bhūtā']]’ iti ‘sādhan'-ā:kṣamā'’ ity arthaḥ |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p42|tathā:bhūtā']]’ iti ‘sādhan'-ā:kṣamā'’ ity arthaḥ |
 ‘śakyata ev'’ eti |
 ‘etena bhavadīyo vyavahāra' ābhāsaḥ pramāṇ'—ādy-abhyupagama—pūrvakatvād abhyupagata:pramāṇ'—ādi-sattva-saṃmata:kath"-ābhāsa-vād"’ īti prayogaḥ sūcitaḥ |
 
 #### Notes
+
+vācobhaṅgayaḥ is a compound like vācoyuktiḥ.
+bhaṅgiḥ is rītiḥ = style of speaking, way of speaking
+iti brūmaḥ = Our position is such, not our reply is 
+
+tāvatā > pravartane pramāṇ'—ādy an:abhyupagamy' āpi pravartanta yat tattā > pravartitatvena
+pravartitatvam
+
+(!) With regard to the inability to prove or refute. – Doesn't pin it down/restrict it to being unable 
+
+ābhāsa a sudo, a semblance
+The fact that it contains the characteristics or a sudo true statement
+
+a:tathā:bhūta as 'false' is strange
+tathā:bhūta should be better! em.
+
+But if you are not able to (īś) rather than muster the effort
+in my speech (not itself)
+the characteristics of a sudo-correct assertion
+I won't tip my hat to it > I won't pay it any mind/I'll just keep on whistling/I don't care
+bogus > 
 
 ### Passage 5
 
@@ -395,14 +416,14 @@ yadvā, ‘vyāpya-vṛtti-vyatirekiṇor vyatireka-vyāptāv iv' ānvaya-vyāpt
 
 #### Text
 
-{‹nanu, (yadi pramāṇ'—ādīni na santi, tadā vyavahāra' eva dharmī kathaṃ siddhyet?
+{‹nanu, (yadi pramāṇ'—ādīni na santi, tadā vyavahāra eva dharmī kathaṃ siddhyet?
 dūṣaṇ'—ādi-vyavasthā vā kathaṃ syāt?)₁
-{(sarva:vidhi;niṣedhānāṃ pramāṇ'—ādhīnatvāt)₂}₁₋₄₋₁› | ^fb8e7f
+{(sarva:vidhi;niṣedhānāṃ pramāṇ'—ādhīnatvāt)₂}₁₋₄₋₁› | ^p51
 
 (m" aivam)₁ |
 {(na brūmo vayaṃ ‘‘'na santi pramāṇ'—ādīn'’ īti svīkṛtya kath" ārabhy"'’ eti |
 ‘‘kiṃ nāma santi, na santi vā pramāṇ'—ādīn'’ īty asyāṃ cintāyām udāsīnair, yathā svīkṛtya tāni bhavatā vyavahriyate, tathā vyavahāribhir eva kathā pravartyatām’ iti |)₂}₁₋₄₋₁
-{anyathā, ‘na santi pramāṇ'—adīn'’ īti matam asmākam āropya yad idaṃ bhavatā dūṣaṇam uktam, tad api vaktum na śakyam ||5|| ^d37c74
+{anyathā, ‘na santi pramāṇ'—adīn'’ īti matam asmākam āropya yad idaṃ bhavatā [[pramāṇādyasattve vyavahāre dharmidūṣaṇādivyavasthayor asiddhiḥ|dūṣaṇam]] tad api vaktum na śakyam ||5|| ^p52
 
 #### Translation
 
@@ -411,25 +432,26 @@ What's more, how would we establish faults etc.?
 For all assertions and negations depend on the means of valid knowledge.’
 It isn't so.
 We do not say: ‘In order to undertake a debate you must accept that the means of valid knowledge do _not_ exist,’
-but that, just like you go about your day having accepted them, those very debaters who are indifferent as regards the concern: ‘Do they exist or do they not exist?’ may undertake a debate.
-Otherwise, this fault that you adduce to our position, namely that we say that the means of valid knowledge etc. do not exist, could also not be stated. (?)
+but that, just like you speak having accepted them, those very debaters who are indifferent as regards the concern: ‘Do they exist or do they not exist?’ may undertake a debate.
+Otherwise, this fault that you would adduce having ascribed to our position the idea that the means of valid knowledge etc. do not exist could also not be stated. 
+(Because Śrīharṣa never stated: ‘I believe they don't exist.’)
 
 #### ŚM Commentary
 
-‘nanu, ‘pramāṇ'—ādīni na sant'’ īty abhimāninas tava pramāṇ'-ān:abhyupagama' eva cet, tadā pramāṇam antareṇa na kathā-siddhir, na vā sādhana;dūṣaṇa-niṣṭhā syād’ ity āha – ‘[[Khaṇḍanakhaṇḍakhādyam#^fb8e7f|nanu yad']]’ īti |
-‘kathā-pūrva:kāle pramāṇ'-abhyupagasy' (?) ā:prayojakatvam ācakṣmahe, na tu ‘pramāṇ'—ādīni na sant'’ īti tadānīm eva vadāmo, yen' aiva deśyaṃ syād’ ity āha – ‘[[Khaṇḍanakhaṇḍakhādyam#^d37c74|na brūma']]’ iti |
-‘[[Khaṇḍanakhaṇḍakhādyam#^d37c74|anyath"]]’ eti ‘yadi pramāṇ'—ady-abhyupagam antareṇa kathā-pravṛttir na syāt, tad"’ eti |
-‘[[Khaṇḍanakhaṇḍakhādyam#^d37c74|āropy']]’ eti | 
+‘nanu, ‘pramāṇ'—ādīni na sant'’ īty abhimāninas tava pramāṇ'-ān:abhyupagama' eva cet, tadā pramāṇam antareṇa na kathā-siddhir, na vā sādhana;dūṣaṇa-niṣṭhā syād’ ity āha – ‘[[Khaṇḍanakhaṇḍakhādyam#^p51|nanu yad']]’ īti |
+‘kathā-pūrva:kāle pramāṇ'-abhyupagasy' (?) ā:prayojakatvam ācakṣmahe, na tu ‘pramāṇ'—ādīni na sant'’ īti tadānīm eva vadāmo, yen' aiva deśyaṃ syād’ ity āha – ‘[[Khaṇḍanakhaṇḍakhādyam#^p52|na brūma']]’ iti |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p52|anyath"]]’ eti ‘yadi pramāṇ'—ādy-abhyupagam antareṇa kathā-pravṛttir na syāt, tad"’ eti |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p52|āropy']]’ eti | 
 ‘‘pramāṇ'—ādy-abhyupagaḥ kathā-pravṛttāv a:tantram’ ity asmākaṃ matam |
 ‘pramāṇ'—adikaṃ vin" āpi kathā-pravṛttir’ iti tatra tav' āropa'’ ity arthaḥ |
-‘[[Khaṇḍanakhaṇḍakhādyam#^d37c74|dūṣaṇam]]’ iti |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p52|dūṣaṇam]]’ iti |
 ‘‘pramāṇ'—ādi-sattve 'pi tad-adhīna:dūṣaṇ'—ādi-vyavahāra-sattvam’ ity abhyupagame vyāghāta—lakṣaṇam dūṣaṇam’ ity arthaḥ |
 
 #### RŚ Commentary
 
 (ākṣep'-āntaram)
 
-atr' aiva bhrānta' āśrayāsiddhiṃ śaṅkate ‘[[Khaṇḍanakhaṇḍakhādyam#^fb8e7f|nanv]]’ iti |
+atr' aiva bhrānta' āśrayāsiddhiṃ śaṅkate ‘[[Khaṇḍanakhaṇḍakhādyam#^p51|nanv]]’ iti |
 ‹‘tathā ca, dharmi-grāhakatayā pramāṇa-sattva-siddhau tad-an:abhyupagamo vyāhataḥ |
 yac ca kath"-ābhāsa-lakṣaṇā-yogitvaṃ ‘kathāyā' ābhāsatva-prayojakam’ ity uktaṃ, tad api pramāṇ'—ādi-satt"-ābhyupagamaṃ vinā n' opapannam’ ity āha –
 dūṣaṇ'—ādīny ābhāsatā—prayojakaṃ dūṣaṇam abhiprety' oktam |
@@ -439,12 +461,12 @@ ata' ev' ‘āvaśyam abhyupeyaṃ bhavat"’ ety ev' oktam’ ity an:ukt':opāl
 kiṃtu, pramāṇ'—ādy an:abhyupagamya pravartitatvaṃ na niyāmakam ity api c' oktam |
 kiṃc', ‘ānyath"’ ety—ādinā sādhana-prayogo 'pi kṛtaḥ |
 ‘so 'n:upapanna' eva syād’ ity āśāyen' āha –
-‘[[Khaṇḍanakhaṇḍakhādyam#^fb8e7f|sarva:vidhi-niṣedhānām]]’ iti |
-vidhir bhāvaḥ, niṣedho 'bhāvaḥ, ‘[[Khaṇḍanakhaṇḍakhādyam#^fb8e7f|dūṣaṇ'—ād']]’ īty—ādi:pada-parigṛhīto dūṣaṇa-bhūṣaṇa-vibhāgo 'pi [[Khaṇḍanakhaṇḍakhādyam#^fb8e7f|sarva]]:padena parigrītaḥ (?) |›
+‘[[Khaṇḍanakhaṇḍakhādyam#^p51|sarva:vidhi-niṣedhānām]]’ iti |
+vidhir bhāvaḥ, niṣedho 'bhāvaḥ, ‘[[Khaṇḍanakhaṇḍakhādyam#^p51|dūṣaṇ'—ād']]’ īty—ādi:pada-parigṛhīto dūṣaṇa-bhūṣaṇa-vibhāgo 'pi [[Khaṇḍanakhaṇḍakhādyam#^p51|sarva]]:padena parigrītaḥ (?) |›
 
 (ākṣepa-parihāraḥ)
 
-‘[[Khaṇḍanakhaṇḍakhādyam#^d37c74|m" aivam]]’ iti pramāṇ'—ādi-sattv'-ābhyupagame |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p52|m" aivam]]’ iti pramāṇ'—ādi-sattv'-ābhyupagame |
 ‘‘‘na kath"-āṅgam’ iti vadatām asmākaṃ pramāṇ'—ādi-sattv'-ābhāvaḥ svīkṛta'’ iti lok'-ottara—prajñena kathaṃ jñātaṃ, yen' aivaṃ vadatā tvayā nir—anuyojy':ānuyogād api na bhītaṃ bhrāntena?
 tathā ca, ‘dharmī dūṣaṇ'—ādiś c' āsmākaṃ pratītam ev'’ eti tāvat" aiva vyavahāri-nirvāhaḥ |
 ‘sā ca pratītiḥ pramāṇa-janyā, na v"’ eti vicārasya n' āyam avasaro; 'rth'-āntar'-āpatter’ iti bhāvaḥ |
@@ -455,12 +477,12 @@ tasmād ayaṃ tava bhramo; yataḥ kath"-ārambhe pramāṇ'—ādi-sattv'-ābh
 ato ‘‘‘'sya na santi pramāṇ'—ādīn'’ īty abhyupagama'’ iti kathā-kāle 'pi tat-svīkāro 'sty ev'’ eti tat—pūrvaka' ev' ārambhaḥ kathāyāḥ |
 idam eva vyaktīkariṣyati 'na santi pramāṇ'—ādīn'' īti matam āropyate |
 
-‘‘[[Khaṇḍanakhaṇḍakhādyam#^d37c74|kiṃ nām']]’ ety—ādy ‘[[Khaṇḍanakhaṇḍakhādyam#^d37c74|udāsīnair]]’ ity (?) asya kathā parvartyatām’ ity anena saṃbandhaḥ |
-‘tāni pramāṇ'—ādīni svīkṛtya yathā bhavatā vyavahriyate bhojan'—ādi:vyavahāraḥ kriyate, tathā vyavhāribhir bhojan'—ādi-kāle pramāṇ'—ādi-sattv';ā:sattva-cint'-odāsīnaiḥ sah'’ eti |
+‘‘[[Khaṇḍanakhaṇḍakhādyam#^p52|kiṃ nām']]’ ety—ādy ‘[[Khaṇḍanakhaṇḍakhādyam#^p52|udāsīnair]]’ ity (?) asya kathā parvartyatām’ ity anena saṃbandhaḥ |
+‘tāni pramāṇ'—ādīni svīkṛtya yathā bhavatā vyavahriyate bhojan'—ādi:vyavahāraḥ kriyate, tathā vyavahāribhir bhojan'—ādi-kāle pramāṇ'—ādi-sattv';ā:sattva-cint'-odāsīnaiḥ sah'’ eti |
 
 ayaṃ bhāvaḥ: ‘yathā bhojan'—ādi-vyavahāra-prāk:kāle pramāṇ'—ādi-sattv';ā:sattva-cintā n' opayujyate; anyathā (?) bālak'—ādīnāṃ vyavahāra-lop'-āpattes, tathā kath"—ātmaka:vyavahāre 'pi samāna—sāmagrīkatvāt sati kath"-āṅga-tattva-jñāna iṣta-sādhanatā; jñān'—ādibhir ev' āvaśy':ābhyupeyair upapatter’ iti bhāvaḥ |
 
-yadv" ‘[[Khaṇḍanakhaṇḍakhādyam#^d37c74|odāsīnair]]’ ity asya ‘[[Khaṇḍanakhaṇḍakhādyam#^d37c74|kath"-ārabhy']]’ ety anen' aiv' ānvayaḥ |
+yadv" ‘[[Khaṇḍanakhaṇḍakhādyam#^p52|odāsīnair]]’ ity asya ‘[[Khaṇḍanakhaṇḍakhādyam#^p52|kath"-ārabhy']]’ ety anen' aiv' ānvayaḥ |
 loka-prasiddhi-siddham eva pramāṇ'—adikam āśritya vyavahriyatām |
 ‘yathā ‘tāni pramāṇ'—ādīni sad—rūpāṇi, pramāṇam eva vastu-sādhakaṃ, na tad-ābhāsam’ ity—adi tvayā vyavahriyate, tathā vyavahāribhiḥ sarvair eva sattv';ā:sattva-cintāyām udāsīnaiḥ kathā pravartyatām’ iti tv apavyākhyānam;
 ‘sad—rūpāṇ'’ īty abhyupagame tad-a:sattva-sādhane vyāghāt'-āpatteḥ |
@@ -470,53 +492,97 @@ kiṃtu loka-prasiddhim eva pramāṇa—mūlikāṃ na paśyanti |
 
 ‘yad āhur iṣṭa-siddhi-kārāḥ: ‘satyaṃ, prasiddhir asti |
 ata' eva vyavaharāmaḥ |
-kiṃtu, n' āsyā' mūlaṃ paśyāma'’ ity eva ‘[[Khaṇḍanakhaṇḍakhādyam#^d37c74|yath"]]’ ety—āder arth'-āntaram |
+kiṃtu, n' āsyā' mūlaṃ paśyāma'’ ity eva ‘[[Khaṇḍanakhaṇḍakhādyam#^p52|yath"]]’ ety—āder arth'-āntaram |
 pramāṇ'—ādi-sattām an:abhyupagamya kathā-pravṛttis tav' āpy asty eva |
-paraṃ, tad brahma-vādibhiḥ saha vidveṣa-vaśān na kathyate, vṛddhair iva pūṛv':ā:parāmarśa-śūnyatayā v"’ ety āh' ‘[[Khaṇḍanakhaṇḍakhādyam#^d37c74|ānyath"]]’ eti |
+paraṃ, tad brahma-vādibhiḥ saha vidveṣa-vaśān na kathyate, vṛddhair iva pūṛv':ā:parāmarśa-śūnyatayā v"’ ety āh' ‘[[Khaṇḍanakhaṇḍakhādyam#^p52|ānyath"]]’ eti |
 ‘‘pramāṇ'—ādi-sattv'-ābhyupagamo na kath"-āṅgam’ ity asmākaṃ mataṃ pramāṇ'—ādy-a:sattv'-āvagama—viṣayatven' āropitam’ ity eko doṣaḥ |
 
 #### Notes
 
+vyavahāra eva, not vyavahāra' eva. Or not?
+
+become valid > be established at all
+It isn't so > Don't go that way!
+
+go about your day > verbal interaction
+get active on the debate floor
+vyavahāra-karaṇam = kathā-pravartanam
+
+uktam is not dūṣaṇam
+This refutation which you said on the basis of attributing to me blabla 
+
+pramāṇ'—ādy-a:sattve dūṣaṇaṃ dvi—vidham:
+- vyavahāre dharmy-a:siddhiḥ 
+- dūṣaṇ'—ādi-vyavasth"-ā:siddhiḥ
+
+abhyupagam > abhyupagamam
+
+anyathā, you allow the fact that someone can enter debate even without ticking a box that conferms your willingness
+Sophistical argument:
+even this miniature where you say you guys believe that there's not pramana, but that's impossible because of this – even this discussion couldn't get going unless both sides accepted the pramanas
 
 ### Passage 6
 
 #### Apparatus
 
+pravṛttāyām ]
+ pravartitāyām
+
 #### Text
 
-kīdṛśīṃ maryādām ālambya pravṛttāyāṃ kathāyām idam dūṣaṇam uktam?
+kīdṛśīṃ maryādām ālambya pravṛttāyāṃ kathāyām idam [[pramāṇādyasattve vyavahāre dharmidūṣaṇādivyavasthayor asiddhiḥ|dūṣaṇam]] uktam?
 {kiṃ pramāṇ'—ādīnāṃ sattvam abhyupagamy' obhābhyāṃ vādibhyāṃ pravartitāyāṃ kathāyām?}₁₋₄₋₁₋₁
 {ut' ā:sattvam abhyupetya?}₁₋₄₋₁₋₂
-{ath' aikena sattvam, apareṇa c' ā:sattvam aṅgīkṛtya?}₁₋₄₋₁₋₃ ^kidrsim-maryadam
+{ath' aikena sattvam, apareṇa c' ā:sattvam aṅgīkṛtya?}₁₋₄₋₁₋₃ ^p61
 
 {n' [[pramāṇādīnāṃ sattvam abhyupagamya vādibhyāṃ pravartitāyāṃ kathāyāṃ dūṣaṇam uktam|ādyaḥ]];
-abhyupagata:pramāṇ'—ādi-sattvaṃ praty etādṛśa:paryanuyog'-ān:avakāśāt |}₁₋₄₋₁₋₁
+abhyupagata—pramāṇ'—ādi-sattvaṃ praty etādṛśa:paryanuyog'-ān:avakāśāt |}₁₋₄₋₁₋₁
 {[[pramāṇādīnām asattvam abhyupagamya vādibhyāṃ pravartitāyāṃ kathāyāṃ dūṣaṇam uktam|dvitīye]] ca svato 'py āpatteḥ |}₁₋₄₋₁₋₂
-{na [[pramāṇādīnāṃ sattvam ekenāsattvam apareṇa abhyupagamya pravartitāyāṃ kathāyāṃ dūṣaṇam uktam|tṛtīyaḥ]]; tath" aiva kath"-āntarasy' api prasakter, ubhay'-ābhyupagam'-ānurodhitvāc ca kathā-niyamayasya |}₁₋₄₋₁₋₃
-anyathā, sv'-ābhiprāyam alambya ten' āpi tvad-vacasi, yat kiṃcid vāg—ātmani dūṣaṇe 'bhihate kasya jayo vyavatiṣṭhatām?
-pramāṇ'—ādy-abhyupagantur eva yāvan niyama-bhara-yantriṇā mahatī syāt}₁₋₄₋₁}₁₋₄}₁ ||6|| ^fbcee0
+{na [[pramāṇādīnāṃ sattvam ekenāsattvam apareṇa abhyupagamya pravartitāyāṃ kathāyāṃ dūṣaṇam uktam|tṛtīyaḥ]]; tath" aiva kath"-āntarasy' āpi prasakter, ubhay'-ābhyupagam'-ānurodhitvāc ca kathā-niyamasya |}₁₋₄₋₁₋₃
+{anyathā, sv'-ābhiprāyam ālambya ten' āpi tvad-vacasi, yat kiṃcid vāg—ātmani dūṣaṇe 'bhihate kasya jayo vyavatiṣṭhatām? (?)
+pramāṇ'—ādy-abhyupagantur eva yāvan:niyama-bhara-yantraṇā mahatī syāt(?)}₁₋₄₋₁₋₃}₁₋₄₋₁ ||6|| ^p62
 
 #### Translation
 
+You would adduce this fault in a debate that has started depending on what condition?
+Is it in a debate that was produced by two debaters who have both accepted the existence of the means of valid knowledge etc.?
+Or who have accepted their non-existence?
+Or, rather, where one has accepted their existence and the other their non-existence?
+
+It cannot be the first,
+because one who has accepted the existence of the means of valid knowledge etc. would not have the opportunity to enquire into refuting such a thing.
+And, in the second, because such an enquiry would lead to undesirable conclusions by itself as well
+(That is, you would have been one of the two debaters who has accepted that the means of valid knowledge etc. do not exist, so you would incur into your own fault).
+It cannot be the third,
+because — in the very same way — another debate as well could be possible,
+and because the rules of debate should comply with what both debaters accept.
+Otherwise, doing whatever he wants he too can do the same for your speech,
+He who accepts the means of valid knowledge would suffer greatly under the wait of such restrictions!
+
 #### ŚM Commentary
 
-dūṣaṇ'-ābhidhānasy' ā:śakyatvaṃ vyutpādayati ‘[[Khaṇḍanakhaṇḍakhādyam#^kidrsim-maryadam|kīdṛśīm]]’ iti |
+dūṣaṇ'-ābhidhānasy' ā:śakyatvaṃ vyutpādayati ‘[[Khaṇḍanakhaṇḍakhādyam#^p61|kīdṛśīm]]’ iti |
 kathāyām eva dūṣaṇ'-ābhidhāna-dharuvy'—ādayaṃ vikalp'-āvasaraḥ |
-‘[[Khaṇḍanakhaṇḍakhādyam#^fbcee0|etādṛś']]’ eti |
-‘‘yadi pramāṇ'—ādīni na santi, tadā vyavahāra' eva dharmī na siddhyed’ ity—ādy etādṛśa:paryanuyog'-ān:avakāśād’ ity arthaḥ |
-‘[[Khaṇḍanakhaṇḍakhādyam#^fbcee0|svato 'p']]’ īti |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p62|etādṛś']]’ eti |
+‘‘yadi pramāṇ'—ādīni na santi, tadā vyavahāra eva dharmī na siddhyed’ ity—ādy etādṛśa:paryanuyog'-ān:avakāśād’ ity arthaḥ |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p62|svato 'p']]’ īti |
 ‘‘tvam api pramāṇ'—ādi-sattvam an:aṅgīkṛtya pravṛtta'’ iti tan—mūlako vyāghātas tav' āpi tulya'’ ity arthaḥ |
-‘[[Khaṇḍanakhaṇḍakhādyam#^fbcee0|tath" aiv']]’ eti |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p62|tath" aiv']]’ eti |
 ‘prakṛta:nigrah'-ādhikaraṇa-kathā-pravṛttivat kath"-āntara-pravṛttir api na dur—labh"’ ety arthaḥ |
 ‘nanv, etāvatā kathā-pravṛttiḥ samāhitā |
-vyāghātas tu na samāhita'’ ity āha – ‘[[Khaṇḍanakhaṇḍakhādyam#^fbcee0|ubhay']]’ eti |
+vyāghātas tu na samāhita'’ ity āha – ‘[[Khaṇḍanakhaṇḍakhādyam#^p62|ubhay']]’ eti |
 ‘pramāṇ'—ādikam antareṇa vyavahār'-ā:siddhi—lakṣaṇo vyāghātas tvayā dattaḥ, sa mayā n' eṣyata’ ity arthaḥ |
 ‘nanu, tvad-an:iṣṭo 'py ayaṃ doṣa' eva; na h' īṣṭatvam api doṣatve tantram’ ity ata' āha – 
-‘[[Khaṇḍanakhaṇḍakhādyam#^fbcee0|anyath"]]’ eti |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p62|anyath"]]’ eti |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p62|vāg-ātmani]] vāṅmātra—rūpe tvay" āpādito 'pi vyāghāto vāṅmātram ev'’ eti bhāvaḥ |
+‘kiṃca, yady ubhay'-ān:anumato 'pi doṣas, tadā pramāṇ'—ādy-abhyupagantus tava prāmāṇ'—ādika:doṣ'-ānusaraṇa-vyagratā syād |
+udbhāvita—doṣasya prāmāṇikatva-vyavasthāpana-prayāsaś ca bhavet |
+asmākaṃ tu n' eyaṃ vyāpṛtir’ ity āha –
+[[Khaṇḍanakhaṇḍakhādyam#^p62|pramāṇ'—ādy-abhypagantur ev']] eti |
 
 #### RŚ Commentary
 
-‘[[Khaṇḍanakhaṇḍakhādyam#^fbcee0|dūṣaṇam]]’ iti |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p62|dūṣaṇam]]’ iti |
 ‘kathāyāṃ hi dūṣaṇam idam āśrayāsiddhy—ādikam udbhāvyam |
 na hi bhuñjānasya, gacchato vā tad-udbhāvyata’ ity arthāḥ |
 tathā ca, ‘nigrahasthān'-odbhāvan'-āvasara-samay'-ābhāvād dūṣaṇ'-ābhidhānasya śakyatv'-ā:jñānam apy aparam’ iti bhāvaḥ |
@@ -524,19 +590,39 @@ tathā ca, ‘nigrahasthān'-odbhāvan'-āvasara-samay'-ābhāvād dūṣaṇ'-�
 ‘‘ākṣep'-okta:dūṣaṇasya vikalp'-ā:sahatvam īdṛk:paryanuyog'-ān:avakāśād’ iti |
 ‘tav' āśrayāsiddhi:dūṣaṇ'—ādibhir bhāg'-āsiddhir’ iti paryanuyogasy' āvasaro n' āsti |
 tathā ca, tad-udbhāvane tav' aiva nir—anuyojy'-ānuyogo nigrahaḥ syād’ iti bhāvaḥ |
-‘[[Khaṇḍanakhaṇḍakhādyam#^fbcee0|āpatter]]’ ity asya paryanuyogasy' ety anuṣaṅgaḥ |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p62|āpatter]]’ ity asya paryanuyogasy' ety anuṣaṅgaḥ |
 tathā ca, jāty-uttaratvam |
 kaścit tu ca:kāraṃ paṭhitvā ‘paryanuyoga-nir—avakāśaś c'’ eti vyācaṣṭe |
 
 ‘‹nanu, tath" āpi madīya-pramāṇ'-ādi-satt"-ābhyupagama-sattvāt kathāyāḥ pramāṇ'—ādi-sattv'-ābhyupagam'-ā:vyabhicāraḥ sthita' ev'›’ ety āha — 
-‘[[Khaṇḍanakhaṇḍakhādyam#^fbcee0|ubhay'-ābhyupagam']]’ eti |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p62|ubhay'-ābhyupagam']]’ eti |
 tathā ca, sann apy anyatar'-ābhyupagamo na tantraṃ, kiṃtu vakṣyamāṇa' ubhaya:vādy-anumitaḥ samaya-bandha' eva tathā |
-anyath", ‘anyatar'-ābhyupagamamātreṇa ced iṣṭa-siddhis, tadā naiyāyikena pañc'—avayava-nyāye prayukte saugatena try—avayava-vādinā tatr' adhikye dūṣaṇa' ukte 'pi nigrahaḥ syān naiyāyikasy'’ eti |
-‘[[Khaṇḍanakhaṇḍakhādyam#^fbcee0|yat kiṃcid vāg—atman']]’ īti vāṅmātra—rūpe na tu vāstava:doṣa-pratipādake |
-‘‘na hy atr' ādhika:nigrahasthānaṃ saṃbhavati naiyāyikair nyāyaḥ pañc'—āvayavaḥ saugatena tu dvy—avayavaḥ prayojya'’ iti samaya-bandha; ubhābhyāṃ niyamasya kṛtatvād’ iti |
+anyath", ‘anyatar'-ābhyupagamamātreṇa ced iṣṭa-siddhis, tadā naiyāyikena pañc'—avayava-nyāye prayukte saugatena try—avayava-vādinā tatr' ādhikye dūṣaṇa ukte 'pi nigrahaḥ syān naiyāyikasy'’ eti |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p62|yat kiṃcid vāg—atman']]’ īti vāṅmātra—rūpe na tu vāstava:doṣa-pratipādake |
+‘‘na hy atr' ādhika:nigrahasthānaṃ saṃbhavati naiyāyikair nyāyaḥ pañc'—āvayavaḥ |
+saugatena tu dvy—avayavaḥ prayojya'’ iti samaya-bandha; ubhābhyāṃ niyamasya kṛtatvād’ iti |
+‘tat kiṃ naiyāyikena pramāṇ'—ādi-sattvaṃ saugatena pramāṇ'—ādy-a:sattvam abhyupetya kathā kāry"’ ety ubhay'-ābhyupagam'-ānurodhinī kathā bhaviṣyati |
+‘n'’ ety āha –
+‘[[Khaṇḍanakhaṇḍakhādyam#^p62|pramāṇ'—ād']]’ īti |
+‘sattven'’ eti śeṣaḥ |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p62|yāvan:niyam']]’ eti |
+‘‘yāvāṃś c' āsau niyamaś c'’ eti yāvān pramāṇ'—ādi-sattv'-ābhyupagamas, tāvān eva sa [[Khaṇḍanakhaṇḍakhādyam#^p62|bharas]] tena gauravaṃ lakṣyate tena [[Khaṇḍanakhaṇḍakhādyam#^p62|mahatī yantraṇā]] pīḍā syād’ ity arthaḥ |
+‘pramāṇ'—ādi-satt"-ābhyupagantrā hi pramāṇena tena ca niścita—sattven' aiva vaktavyam,
+anyena tu pramāṇ'—ābhāsen' āpi niścit'—āsattven' āp'’ īti |
+tathā ca, ‘tasy' āvasādo na syāt, 
+syāc ca pūrvasy'’ eti |
+evaṃ:bhūtāyāḥ kathāyāḥ virāmo na saṃbhavati;
+balavan niṣṭh"-ānubandhitayā jñāte pravṛtty-a:saṃbhavāt |
 
 #### Notes
 
+ālambya > 
+You are saying this fault in the cause of a debate that has started depending on what condition?
+
+kathaṃ siddhyet and kathaṃ syāt are the dūṣaṇa > It's impossible to establish what is a dūṣaṇa is a dūṣaṇa
+
+svato 'py āpatteḥ
+And in the second case, we don't need to speak a dūṣaṇa because just by itself the problem happens 
 
 ### Passage 7
 
@@ -544,15 +630,155 @@ anyath", ‘anyatar'-ābhyupagamamātreṇa ced iṣṭa-siddhis, tadā naiyāyi
 
 #### Text
 
-tasmāt pramāṇ'—adi-sattv';ā:sattv'-ābhyupagam'-audāsīnyena vyavhāra-niyamena samayaṃ baddvhā pravartitāyāṃ kathāyāṃ bhavat" edaṃ dūṣaṇam uktam ity ucitam eva tathā sati syāt |
-yo 'yaṃ bhavān sv'-ābhiprāyam api n' āvadhāyarituṃ śaktnoti dūratas tasmin par'-ābhisaṃdhān'-āvadhāraṇa-pratyāśā |
+tasmāt ‘pramāṇ'—adi-sattv';ā:sattv'-ābhyupagam'-audāsīnyena vyavahāra-niyamena samayaṃ baddhvā pravartitāyāṃ kathāyāṃ bhavat" edaṃ dūṣaṇam uktam’ ity ucitam eva tathā sati syāt |
+yo 'yaṃ bhavān sv'-ābhiprāyam api n' āvadhāyarituṃ śaknoti, dūratas tasmin par'-ābhisaṃdhān'-āvadhāraṇa-pratyāśā ||7||}₁₋₄ ^p71
+
+#### Translation
+
+Therefore, you must have adduced this fault in a debate initiated after putting together regulations restricting behaviour with indifference towards accepting the existence or non-existence of the means of valid knowledge etc.
+In such a case, it would have been just appropriate.
+Hoping that you yourself who are not even being able to understand precisely your own intention
+would be able to understand precisely the opinion of another is indeed far flung.
+
+#### ŚM Commentary
+
+kathātaḥ pūrvaṃ pramāṇ'—ady-abhyupagama-niyam'-obhaya:vādy-an:anumata:doṣ'-odbhāvanayor a:kartvayatām upsaṃharati –
+[[Khaṇḍanakhaṇḍakhādyam#^p71|tasmād]] iti |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p71|ucitam eva tatha sait syād]]’ ity atra ‘yady ubhay'-ābhyupagataṃ syād’ iti śeṣaḥ |
+upasaṃhṛtya parasy' ā:hṛdaya-jñatvam upapādayati –
+[[Khaṇḍanakhaṇḍakhādyam#^p71|yo 'yam]] iti |
+‘pramāṇ'—ady an:abhyupagamya pravartitāyaṃ kathāyāṃ vyāghāto 'yaṃ dattaḥ pramāṇ'—ādy an:abhyupagamya kathāyām a:pravṛttir’ iti c' ‘ābhidhatsa’ iti ‘sv'-ābhiprāy'-ān:avadhāraṇaṃ kathātaḥ pūrvaṃ ‘pramāṇ'—ady-abhyupagamo na tantram’ iti may" oktaṃ pramāṇ'—ādīni na sant'’ īti ‘mad-uktatvena tvayā gṛhītam’ iti par'-ābhisaṃdhān'-ān:avadhāraṇam iyam asmākaṃ paitṛkī vyākhyā |
+vyākhy"-āntaraṃ tu –
+‘nanu madīyas tatr' āpi pramāṇ'—ādy-abhyupagamo 'sty ev'’ eti pramāṇ'—ādy-abhyupagama—pūrvakatvaṃ kathāyāṃ na vyabhicarat' īty ata' āha – 
+‘[[Khaṇḍanakhaṇḍakhādyam#^p71|ubhay']]’ eti |
+‘tathā ca, n' ānyatar'-ābhyupagamo 'pi tantram |
+na c' ānyatara-siddha:doṣ'-ābhisaṃdhānam ucitam’ ity arthaḥ |
+‘kathātaḥ pūrvam avaśyaṃ samaya-bandhaḥ syāt,
+anyathā, tv' edam an:iṣṭaṃ syād’ ity āha –
+‘[[Khaṇḍanakhaṇḍakhādyam#^p71|anyath"]]’ eti |
+‘ubhay'-ān:abhyupagata—dūṣaṇa-bhāvasy' āpi yadi dūṣaṇatvaṃ, tadā jaya;parājay'—ādi-vyavasthā na syād’ ity arthaḥ |
+pramāṇ'—ādi-satt"-ān:abhyupagantā hi pramāṇ'—ābhāsen' āpy abhidhyāt |
+‘‘tad-abhyupagantā hi pramāṇatvena niściten' aiv'’ eti tasya mahatī yantraṇ"’ ety āha –
+[[Khaṇḍanakhaṇḍakhādyam#^p71|pramāṇ']] eti |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p71|eva]] ‘yāvad’ iti nipāta-dvayam avadhāraṇa ucitam ev'’ eti s'—opahāsam |
+tad idaṃ vyākhyānam a:sat:saṃdarbham iva |
+
+#### RŚ Commentary
+
+‘tat kiṃ tvayā saha mama kathā na jāt" aiva?
+yadi c' aivaṃ, tathā sati mayā kathaṃ dūṣaṇam abhihitaṃ?
+tvayā ca kathaṃ loka-siddhe avyavahriyate 'smābhir’ ity uktam |
+nir—anuyojy':ānuyogo vā māṃ prati kathaṃ n' ocyata ity āha – 
+‘[[Khaṇḍanakhaṇḍakhādyam#^p71|tasmād]]’ iti |
+vakṣyamāṇa:samaya-bandha-niyama' eva kath"-āṅgaṃ, na tu sattv';ā:sattv'-ābhyupagamau; tābhyāṃ vin" āpi kath"-ā:saṃbhavāt |
+tataś ca ‘tādśyāṃ kathāyām idaṃ dūṣaṇaṃ bhavatā vaktuam ucitam ev'’ eti  may" āpi tat-parihāra' eva kṛto,
+na tu nir—anuyojy':anuyoga' udbhāvitaḥ |
+evaṃ bodhayitvā parihasati –
+[[Khaṇḍanakhaṇḍakhādyam#^p71|yo 'yam]] iti |
+‘pramāṇ'—ādi-satthām an:abhyupagamya pravartitāyāṃ kathāyāṃ doṣo dīyate pramāṇ'—ādi-sattām an:abhyupagamya kathaṃ pravṛttir’ iti sv'-ābhiprāy'-ān:avadhāraṇam |
+yadv", ‘edṛśyāṃ kathāyām ahaṃ doṣam avādiṣam’ iti sv'-ābhiprāy'-ān:avadhāraṇaṃ par'-ābhisaṃdhānaṃ ‘parasya mam' ābhiprāyas | tad-avadhāraṇaṃ kath"-āṅgaṃ na pramāṇ'-ādi-sattv'-āvadāraṇam’ iti |
+
+#### Notes
+
+
+### Passage 8
+
+#### Apparatus
+
+#### Text
+
+{atha {‘vādīkṛtya dur:vaitaṇḍikaṃ tasminn upādhau bādho 'bhidīyata’ ity eva n' eṣyate |
+śiṣy'—adayas tu tasya kath"-ān:adhikāraṃ jñāpyante}₁₋₅₋₁ |
+ata' eva bhāṣya-kāraḥ ‘sa prayojanam anuyukto yadi pratipadyata’ ity āha, na tu ‘pratipadyasa’ iti | ^p81
+
+m" aivam |
+śiṣy'—ādīn praty api ‘cārvāk'—āder doṣo 'yam’ ity ev' ābhidhātavyam |
+kathaṃ ca tathā syāt;
+{tasya kathā-praveśan';ā:praveśanayos tad:bādh'-ā:kṣamatvāt? 
+kathāyām eva hi nigrahaḥ}₁₋₅₋₁ ||8||}₁₋₅}₁ ^p82
+
+#### Translation
+
+‘But! I do not wish to state any contradiction in that upādhi(?) after taking an ill-intentioned contentious partner.
+But students and others are informed that he is unfit for debate.
+For this very reason, the Commentator (on the Nyāyasūtras) says ‘If he is asked his purpose, he agrees (to debate),’ and not ‘you agree.’’ 
+
+Don't go that way.
+You should still tell even your students or others ‘This is the fault of a Cārvāka or the like.’
+And how is that possible?
+Because that refutation would not be possible when he has entered a debate and when he has not.
+In fact, a losing fault is only in a debate.
+
+#### ŚM Commentary
+
+‘nanu, mayā tvayi vyāghāto n' okto, yena tad-anurodhāt kath"-ābhyupagamaḥ |
+sā ca kathā pramāṇ'—ādy-abhyupagamam antareṇ' aiva pravṛttā syāt |
+api tu, śiṣyā' evaṃ jñāpyante yad vaitaṇḍikaḥ kath"-ān:adhikār"’ ity āśaṅkate –
+‘[[Khaṇḍanakhaṇḍakhādyam#^p81|ath']]’ eti |
+‘yadi vaitaṇḍikasya jay'—ādy uddeśyaṃ, tadā tad-anurodhāt pramāṇ'—ādy-abhyupaganṛtvam api |
+atha kiṃcid an:uddiśy' aiva kathāyāṃ pravartate ‘tad" onmatta' iv' opekṣaṇīya'’ iti śiṣya-śikṣā ‘na tu pratipadyasa’ ity upalakṣaṇaṃ ‘na tu tvaṃ prayojanam anuyukta'’ ity api draṣṭavyam |
+vādini saṃbodhye madhyamapuruṣa-prayoga' ucita'’ iti bhāvaḥ |
+‘śiṣyo 'pi hi ‘vaitaṇdikasy' āyaṃ doṣa'’ iti bodhanīyaḥ |
+‘doṣaś ca kathāyām ev'’ eti sā kathā pramāṇ'—ādy-abhyupagamam antareṇ' aiv' eti svīkāryam’ ity āha –
+‘[[Khaṇḍanakhaṇḍakhādyam#^p82|śiṣy'—ādīn]]’ iti |
+‘‘prayojana-sattā na pravartikā, kiṃtu taj-jñānaṃ, tac ca vaitaṇḍikasy 'āp'’ īti na tasya kath"-ān:adhikāro 'p'’ īti hṛdayam |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p81|kathāyām ev']]’ eti |
+‘a:khaṇḍit'—āhaṃkāreṇa par'-āhaṃkāra-khaṇḍanasya kathā-kāraṇa-samyag:jñān'-ābhāvasya vā nigrahatvāt’ iti bhāvaḥ |
+
+#### RŚ Commentary
+
+‘mad-icchā tav' ā:pratyakṣ'-ānumānena kathaṃ jñātuṃ śakyā svasya pratyakṣa-yogy" āpi sv'-ecchā dur:vitaṇḍikena sah' āsmākaṃ kathā pravṛttā syāt |
+na c' aivam’ ity āśaṅkate –
+‘[[Khaṇḍanakhaṇḍakhādyam#^p81|ath']]’ eti |
+dur:vaitaṇḍikaḥ sarva:śūnya-vādī mādhyamikaḥ |
+tad āhur bhaṭṭa-caraṇāḥ – \
+‘artha-śūnyam idaṃ jñānaṃ yog'-ācārāḥ prapedire | \
+tasy' āpy a:bhāvam icchanti ye mādhyamika:vādinaḥ ||’ \
+iti |
+‘tasmin bādho 'bhāvo 'dhikārasya pramāpyata’ ity arthaḥ |
+yadi ca ‘bādha' āśrayāsiddhy—ādir’ ity ucyate, tadā ‘tasminn’ iti nimitta-saptamī |
+[[Khaṇḍanakhaṇḍakhādyam#^p81|bhāṣya-kāro]] nyāya-sūtrāṇāṃ Vātsyāyanaḥ |
+[[Khaṇḍanakhaṇḍakhādyam#^p81|pratipadyata]] ity anantaraṃ ‘sa ev' āsya sthāpyaḥ pakṣa'’ iti vaitaṇḍikatvaṃ vijahāti |
+‘‘no cen n' āsau laukiko, na vā parīkṣaka'’ ity unmattavad upekṣaṇiya'’ iti śeṣaḥ |
+‘‘sa vaitaṇḍikaḥ kathā-prayojanaṃ tattva-nirṇaya:vijay'—ākhyaṃ pratipadyata’ iti prathamapuruṣo, na tu ‘pratipadyasa’ iti madhyamapuruṣaḥ kath"-ādhikār'-ābhāvena puro 'n:avasthānād’ ity āśayaḥ |
+idam upalakṣaṇaṃ ‘tvaṃ prayojanam anuyukta'’ ity api draṣṭavyam |
+‘vādini saṃbodhye madhyamapuruṣasy' aiv' ocitatvād’ iti miśrāḥ (?) |
+yady api ‘bhavān pratipadyata’ ity a:prayogo 'pi yuṣmado yukta' eva, tath" āpi ‘sa’ iti parokṣa-nirdeś'-opaṣtambhen' edam uktam |
+‘[[Khaṇḍanakhaṇḍakhādyam#^p81|kathaṃ ca tathā syād]]’ iti |
+‘doṣ'-ābhisaṃdhānaṃ syād’ ity arthaḥ |
+
+‘[[Khaṇḍanakhaṇḍakhādyam#^p81|kathā-praveśan';ā:praveśanayor]]’ iti |
+‘nanu, tasya kath"-ādhikāro n' āsty unmatta-tuluo hi sa’ iti kathāyām a:praveśo 'pi vaktuṃ śakyam |
+ata' eva, ‘kathāyām eva hi nigraha'’ ity api na yuktam |
+na hi nigrahasthānatven' odbhāvanam ih' ābhimatam |
+tathā saty a:khaṇdit'-āhaṃkāreṇa par'-āhaṃkāra-khaṇḍanasya, kath"-āṅgatva-jñān'-ābhāv—ātmano vā nigrahasya kathā-praveśa-niyatatvāt |
+‘syād apy evaṃ, na tv evaṃ | 
+kiṃtv, kath"-āṅga-prayojana-śūnyasya n' āsti kath"-ādhikāra'’ iti śiṣyān praty updadeśaḥ |
+sa ca praveś-ābhāva-bodhan'-opayogī kathāḥa prāg api vartamānasya cārvāk'—āder na bādhaḥ |
+satyam eva, paraṃtv evam:upadeśaḥ śisyān prati kiṃ kathāyaṃ praviṣtasya cārvāk'—āder adhikār'-ābhāva-bodhanāy' ā:praviṣtasya vā?
+n' ādyaḥ; praviṣṭasya pravṛttimato 'dhikār'-ābhāva-bodhanasy' ā:śakyatvāt |
+na hi prayojanaṃ vinā kaścit pravartate |
+na ca prayojana-satt"-ādhikāra upayujyate 'Gnihotr'—ādāv; a:pravṛtty-āpatteḥ |
+duṣ:karmaṇām āyur-nāśe phal'-ān:utpatteḥ |
+kiṃca, tad-adhikār'-ābhāva-bodhanasya prayojanaṃ; kathāpraveśasya jātatvāt |
+
+#### Notes
+
+### Passage 9
+
+#### Apparatus
+
+#### Text
+
+{n' āpi dvitīyaḥ |}₂
 
 #### Translation
 
 #### ŚM Commentary
 
-#### Notes
+#### RŚ Commentary
 
+#### Notes
 
 
 

@@ -10,3 +10,4 @@ tags: []
 sad:vacan'-ābhāso nigrahasthānam
 
 The resemblance of a correct assertion
+A pseudo-truth/verity
