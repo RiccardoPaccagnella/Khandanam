@@ -7,3 +7,4 @@ tags: []
 # vāg-vyavahāraḥ
 
 An utterance
+Verbal behaviour

@@ -632,6 +632,23 @@ yantraṇā:
 The pramāṇa guy has so much burden.
 The other guy can just say: You are wrong.
 
+Produced > Started, Made to get going 
+
+just like a debate > just like a kind of debate about 
+
+despite accepting > regardless of whether
+
+yat:kiṃcit etc
+Could go with tvad-vacasi or with dūṣaṇe
+
+traps himself > burdens himself
+
+Third:
+You are trying to point out a fault between certain kinds of debates. But just like the debate between two people who dissagree could fail, it could also fail!
+
+anurodhitvāt
+niyamaḥ > might not mean the rules of debate, maybe its more general
+
 ### Passage 7
 
 #### Apparatus
@@ -692,15 +709,21 @@ yadv", ‘edṛśyāṃ kathāyām ahaṃ doṣam avādiṣam’ iti sv'-ābhipr
 In a debate > with reference to a debate initiated ?
 dūṣaṇam ucitam rather than devo varṣati 
 
+Putting together regulations > Making an agreement
+
+(You don't even know how you got to establish your own position — 
+
+far flung > far fetched
+
 ### Passage 8
 
 #### Apparatus
 
 #### Text
 
-{atha {‘vādīkṛtya dur:vaitaṇḍikaṃ tasminn upādhau bādho 'bhidīyata’ ity eva n' eṣyate |
+{atha {‘vādīkṛtya dur:vaitaṇḍikaṃ tasminn upādhau bādho 'bhidhīyata’ ity eva n' eṣyate |
 śiṣy'—adayas tu tasya kath"-ān:adhikāraṃ jñāpyante}₁₋₅₋₁ |
-ata' eva bhāṣya-kāraḥ ‘sa prayojanam anuyukto yadi pratipadyata’ ity āha, na tu ‘pratipadyasa’ iti | ^p81
+ata' eva bhāṣya-kāraḥ ‘sa prayojanam anuyukto yadi pratipadyata’ ity āha sma, na tu ‘pratipadyasa’ iti | ^p81
 
 m" aivam |
 śiṣy'—ādīn praty api ‘cārvāk'—āder doṣo 'yam’ ity ev' ābhidhātavyam |
@@ -744,16 +767,16 @@ na c' aivam’ ity āśaṅkate –
 dur:vaitaṇḍikaḥ sarva:śūnya-vādī mādhyamikaḥ |
 tad āhur bhaṭṭa-caraṇāḥ – \
 ‘artha-śūnyam idaṃ jñānaṃ yogācārāḥ prapedire | \
-tasy' āpy a:bhāvam icchanti ye mādhyamika:vādinaḥ ||’ \
+tasy' āpy abhāvam icchanti ye mādhyamika:vādinaḥ (Kumārila (?)) ||’ \
 iti |
 ‘tasmin bādho 'bhāvo 'dhikārasya pramāpyata’ ity arthaḥ |
 yadi ca ‘bādha' āśrayāsiddhy—ādir’ ity ucyate, tadā ‘tasminn’ iti nimitta-saptamī |
 [[Khaṇḍanakhaṇḍakhādyam#^p81|bhāṣya-kāro]] nyāya-sūtrāṇāṃ Vātsyāyanaḥ |
 [[Khaṇḍanakhaṇḍakhādyam#^p81|pratipadyata]] ity anantaraṃ ‘sa ev' āsya sthāpyaḥ pakṣa'’ iti vaitaṇḍikatvaṃ vijahāti |
-‘‘no cen n' āsau laukiko, na vā parīkṣaka'’ ity unmattavad upekṣaṇiya'’ iti śeṣaḥ |
+‘‘no cen n' āsau laukiko, na vā parīkṣaka'’ ity unmattavad upekṣaṇīya'’ iti śeṣaḥ |
 ‘‘sa vaitaṇḍikaḥ kathā-prayojanaṃ tattva-nirṇaya:vijay'—ākhyaṃ pratipadyata’ iti prathamapuruṣo, na tu ‘pratipadyasa’ iti madhyamapuruṣaḥ kath"-ādhikār'-ābhāvena puro 'n:avasthānād’ ity āśayaḥ |
 idam upalakṣaṇaṃ ‘tvaṃ prayojanam anuyukta'’ ity api draṣṭavyam |
-‘vādini saṃbodhye madhyamapuruṣasy' aiv' ocitatvād’ iti miśrāḥ (?) |
+‘vādini saṃbodhye madhyamapuruṣasy' aiv' ocitatvād’ iti miśrāḥ (Śaṅkaramiśra (?)) |
 yady api ‘bhavān pratipadyata’ ity a:prayogo 'pi yuṣmado yukta' eva, tath" āpi ‘sa’ iti parokṣa-nirdeś'-opaṣtambhen' edam uktam |
 ‘[[Khaṇḍanakhaṇḍakhādyam#^p81|kathaṃ ca tathā syād]]’ iti |
 ‘doṣ'-ābhisaṃdhānaṃ syād’ ity arthaḥ |
@@ -764,22 +787,22 @@ ata' eva, ‘kathāyām eva hi nigraha'’ ity api na yuktam |
 na hi nigrahasthānatven' odbhāvanam ih' ābhimatam |
 tathā saty a:khaṇdit'-āhaṃkāreṇa par'-āhaṃkāra-khaṇḍanasya, kath"-āṅgatva-jñān'-ābhāv—ātmano vā nigrahasya kathā-praveśa-niyatatvāt |
 ‘syād apy evaṃ, na tv evam | 
-kiṃtv, kath"-āṅga-prayojana-śūnyasya n' āsti kath"-ādhikāra'’ iti śiṣyān praty updadeśaḥ |
+kiṃtv, kath"-āṅga-prayojana-śūnyasya n' āsti kath"-ādhikāra'’ iti śiṣyān praty upadeśaḥ |
 sa ca praveś-ābhāva-bodhan'-opayogī kathātaḥ prāg api vartamānasya cārvāk'—āder na bādhaḥ |
-satyam eva, paraṃtv evam:upadeśaḥ śisyān prati kiṃ kathāyaṃ praviṣṭasya cārvāk'—āder adhikār'-ābhāva-bodhanāy' ā:praviṣtasya vā?
+satyam eva, paraṃtv evam upadeśaḥ śisyān prati kiṃ kathāyaṃ praviṣṭasya cārvāk'—āder adhikār'-ābhāva-bodhanāy' ā:praviṣtasya vā?
 n' ādyaḥ; praviṣṭasya pravṛttimato 'dhikār'-ābhāva-bodhanasy' ā:śakyatvāt |
 na hi prayojanaṃ vinā kaścit pravartate |
 na ca prayojana-satt"-ādhikāra upayujyate 'Gnihotr'—ādāv; a:pravṛtty-āpatteḥ |
 duṣ:karmaṇām āyur-nāśe phal'-ān:utpatteḥ |
-kiṃca, tad-adhikār'-ābhāva-bodhanasya prayojanaṃ; kathāpraveśasya jātatvāt |
+kiṃ ca tad-adhikār'-ābhāva-bodhanasya prayojanaṃ; kathāpraveśasya jātatvāt? |
 n' āpi dvitīyaḥ |
-śiṣyān prati tad-upadeśo na cārvāk'—ādeḥ kathā-virodhī (?) vy—adhikaraṇatvāt |
-yadi tu śiṣyāṇāṃ kath"-ān:adhikāraṃ tasya jānatāṃ tena saha n' āsti tataś ca tasya kathāyāṃ praveśa' ev' ānayā praṇālyā nirasyata; ekākinaḥ kathakatv'-ābhāvād iti duṣ:prayāś" āpi na yuktā |
+śiṣyān prati tad-upadeśo na cārvāk'—ādeḥ kathā-virodhī (virodho (?)) vy—adhikaraṇatvāt |
+yadi tu śiṣyāṇāṃ kath"-ān:adhikāraṃ tasya jānatāṃ tena saha n' āsti (kartā kaḥ? kathā (?)) tataś ca tasya kathāyāṃ praveśa' ev' ānayā praṇālyā nirasyata; ekākinaḥ kathakatv'-ābhāvād iti duṣ:pratyāś" āpi na yuktā |
 kathāṃ praty utsukaṃ tam avalokya tvac-chiṣyāṇām api tad-adhikār'-ābhāva-nirṇay'-ā:śakteḥ |
 na c' ‘‹āta' eva prayojanam buddhvā tad-abhāvo nirṇeya'›’ iti vācyam |
 tathā sati, sa ced brūyāt ‘‹kim eten' ā:prastuta:praśnena,
 tava yady asti kathā-sāmarthyaṃ tathā kathay'›’ eti tadā tvac-chiṣyāḥ kiṃ kuryuḥ?
-‘‹‘tarhi, na kathayeur’ iti siddhaṃ naḥ samīhitam›’ iti cen, na!
+‘‹‘tarhi, na kathayeyur’ iti siddhaṃ naḥ samīhitam›’ iti cen, na!
 śiṣyā' api sabhāyāṃ gatāḥ samarthāś ca |
 kathaṃ bhavac-chikṣāmātrān nivarteran?
 ‘tathā sati, teṣāṃ kathā-sāmarthy'-ābhāvam eva pariṣado 'pi niścinuyur’ iti vin" aiva kathāṃ svāpa-karṣaṃ prakāśayantaḥ kathaṃ sva-gṛhe 'py āgaccheyuḥ?
@@ -790,6 +813,31 @@ na c' aitvātat" āpi nistāraḥ;
 
 #### Notes
 
+atha > or if
+
+upādhau
+it seem like a nimittasaptamī according to RŚ, because of him
+bādhaḥ adhikārābhāvaḥ (this is the problem)
+Otherwise, if it is some logical problem, it's for his sake
+tasmin prativādini upādhau
+when he is there as an 
+like a flower next to a crystal
+
+Commentator 4 reads vidhīyate, not abhidhīyate
+
+To start with, I do not accept that having made a durvaitaṇḍika into a vādin a fault is stated when he is there affecting the situtation
+A durvaitaṇḍika is not a vādin, he cannot participate in it. But I don't accept it
+
+Somebody like that is unfit for debate
+Your question kiṃbhūtāyāṃ misses the point. It's just a way to tell my students to stay away from these guys
+
+pratipadyate
+He looses his vaitaṇḍikatva if when he is urged he says this is his position or his siddhānta
+The third person shows that he is not speaking to the vaitaṇḍika, but rather that he is talking to the students
+
+how is that possible > how could it be like that?
+
+
 ### Passage 9
 
 #### Apparatus
@@ -797,11 +845,20 @@ na c' aitvātat" āpi nistāraḥ;
 #### Text
 
 {n' āpi [[pramāṇādyabhyupagamo vāgvyavahārahetuḥ|dvitīyaḥ]] |
-tathā hi, syād apy evaṃ, yadi kathaka-pravartanīya:vāg-vyavahāraṃ prati pramāṇ'—ādīnāṃ hetutā tat-sattv'-ān:abhyupagame nivarteta |
-na tv evaṃ saṃbhavati tathā sati tat-sattv'-ān:abhyupagantṝṇāṃ vāg-vyavahāra-svarūpam eva na niṣpadyeta; hetv-an:upapatteḥ |
-uktaś c' āyam artho ‘yan mādhyamik'—ādi-vāg-vyavahārāṇāṃ svarūp'-ālāpo na śakyata’ iti | ^p9
+tathā hi, {syād apy evaṃ, yadi kathaka-pravartanīya:vāg-vyavahāraṃ prati pramāṇ'—ādīnāṃ hetutā tat-sattv'-ān:abhyupagame nivarteta |}₂₋₁
+{na tv evaṃ saṃbhavati |
+tathā sati, tat-sattv'-ān:abhyupagantṝṇāṃ vāg-vyavahāra-svarūpam eva na niṣpadyeta; hetv-an:upapatteḥ |
+uktaś c' āyam artho ‘yan mādhyamik'—ādi-vāg-vyavahārāṇāṃ svarūp'-ālāpo na śakyata’ iti |}₂₋₁ ^p9
 
 #### Translation
+
+And it's not the second.
+To explain, it might even be so 
+if the fact that the means of valid knowledge etc are the cause of the utterance that the debaters have to produce were to cease when the they do not accept their existence.
+But that's not possible.
+If it were, the very nature of an utterance could not possibly obtain for those who do not accept their existence; 
+their cause could not apply.
+And we have already addressed the idea that ‘since we cannot talk about the nature of the utterances of Mādhyamikas etc...’
 
 #### ŚM Commentary
 
@@ -830,8 +887,16 @@ niyamarithatiḥ (?) – samaya-bandhaḥ |
 
 #### RŚ Commentary
 
+‘satyāṃ hi kathāyāṃ prayojan'-ān:aṅgīkartur an:adhikār'—ākhyo doṣo bhavad-abhimataḥ śakya-nirṇaya'’ iti |
+
 #### Notes
 
+‹pramāṇ'—ādy-abhyupagamasya kathaka-vāg-vyavahāra-hetutvam› |
+
+pramāṇ'—ādy-abhypagam'-ābhāve vāg-vyavahāra-hetor abhāvaḥ; sāmānādhikaraṇyāt |
+vāg-vyavahāra-hetv-abhāve vāg-vyavahāra-svarūpasy' ābhāvaḥ; hetv-abhāve kāry'-ābhāvāt |
+
+‘mādhyamik'—ādi-pramāṇ'—ādy-an:abhyupagame tad-vāg-vyavahāra-svarūpasy' ābhāva'’ ity āpattiḥ  |
 
 ### Passage 10
 
@@ -839,24 +904,44 @@ niyamarithatiḥ (?) – samaya-bandhaḥ |
 
 #### Text
 
-atha manyase ‘kathaka-vāg-vyavahāraṃ prati hetutvāt pramāṇ'—ādīnāṃ sattvaṃ,
-‘sattvāc c' ābhyupagamo,
-yat sat tad abhyupagamyata’ iti sthiter’ iti 
+{atha manyase ‘‹kathaka-vāg-vyavahāraṃ prati hetutvāt pramāṇ'—ādīnāṃ sattvaṃ |
+sattvāc c' ābhyupagamo;
+‘yat sat, tad abhyupagamyata’ iti sthiter›’ iti}₂₋₂ ^p101
 
-m" aivam |
+{m" aivam |
 kay" āpi niyama-sthityā pravṛttāyāṃ kathāyāṃ kathaka-vāg-vyavahāraṃ prati hetutvāt pramāṇ'—ādīnāṃ sattvaṃ,
-sattvāc c' abhyupagamo bhavatā prasādhyaḥ |}₂
+sattvāc c' ābhyupagamo bhavatā prasādhyaḥ |}₂₋₂}₂ ^p102
 
 #### Translation
 
+Otherwise, do you think that 
+‘since the means of valid knowledge etc are the cause of the debaters' utterance, they exist,
+and since they exist, we accept them,
+because the state of things is that whatever exists is accepted?’
+
+Don't go there.
+Since the means of valid knowledge etc are the cause of the debaters' utterance in a debate that was produced by a certain fixed set of restrictions, they exist,
+and since they exist, you should make me accept them.
+
 #### ŚM Commentary
-
-
 
 #### RŚ Commentary
 
+kiṃca, ‘yadi śiṣyā' api guruṃ prati vaitaṇḍik'-okta:yuktyā pratyavatiṣṭeran, 
+tadā guroḥ kim uttaraṃ syād’ ity a:saṅgatam ev' aitad ‘[[Khaṇḍanakhaṇḍakhādyam#^p101|ath']]’ ety—ādi |
+
 #### Notes
 
+‹pramāṇ'—ādīnāṃ kathaka-vāg-vyavahāra-hetutvam |
+tasya hetutvāt teṣāṃ sattvam |
+sattvāt teṣām abhyupagamaḥ |
+‘yat sat, tad abhyupagamyata’ iti vyāpteḥ› |
+
+kay" āpi niyama-sthityā pravṛttāyāṃ kathāyāṃ pramāṇ'—ādīnāṃ kathaka-vāg-vyavahāra-hetutvam |
+tasya hetutvāt teṣāṃ sattvam |
+sattvāt teṣām abhyupagamaḥ sādhyaḥ |
+‘yat sat, tat sādhyam’ iti vyāpteḥ |
+‘na tu tvayā sādhitam’ ity abhiprāyaḥ |
 
 ### Passage 11
 
@@ -864,30 +949,103 @@ sattvāc c' abhyupagamo bhavatā prasādhyaḥ |}₂
 
 #### Text
 
-‘kathātaḥ pūrvaṃ tattv'-āvadhāraṇaṃ vā, para-parājayaṃ v" ābhilaṣadbhyāṃ kathakābhyāṃ yāvatā vinā tad-abhilaṣitaṃ na paryavasyati,
+kathātaḥ pūrvaṃ tattv'-āvadhāraṇaṃ vā, para-parājayaṃ v" ābhilaṣadbhyāṃ kathakābhyāṃ yāvatā vinā tad-abhilaṣitaṃ na paryavasyati,
 tāvad anuroddhavyam |
-tac ca vyavahāra-niyama-samaya-bandhād eva dvābhyām api tābhyāṃ saṃbhāvyata’ iti vyavahāra-niyama-samayam eva badnhītaḥ |
+‘tac ca vyavahāra-niyama-samaya-bandhād eva dvābhyām api tābhyāṃ saṃbhāvyata’ iti vyavahāra-niyama-samayam eva badhnītaḥ | ^p111
 
 #### Translation
 
+The two debaters, who either wish to establish the truth or defeat the opponent, should comply to as much as that without which they will not reach their goal.
+And since they can both respect that only by putting together a convention for restricting their behaviour,
+they put together precisely a convention for restricting their behaviour.
+
 #### ŚM Commentary
+
+‘nanu, pramāṇ'—ādy-abhyupagamavat samaya-bandho 'pi kathāyām a:tantram ev'’ ety ata' āha – 
+[[Khaṇḍanakhaṇḍakhādyam#^p111|kathātaḥ pūrvam]] iti |
+‘nanu, pramāy(>ṇ)'—ādi-satt" āpi tath" aiv' anuroddhyatām’ ity ata' āha ‘[[Khaṇḍanakhaṇḍakhādyam#^p111|tac c']]’ eti |
+‘samaya-bandhasy' āvaśyakatvāt tanmātram am(>n)uroddhavyam |
+na tu pramāṇ'—ādy-abhyupagamo 'p'’ īty arthaḥ |
 
 #### RŚ Commentary
 
 #### Notes
 
 
-### Passage 11
+### Passage 12
 
 #### Apparatus
 
 #### Text
 
-sa ca pramāṇēna, tarkeṇa ca vyavahartavyaṃ vādinā, prativādin" āpi kath"-āṅga:tattva-jñāna;viparyaya;liṅga;pratijñā-hānyādy-anyatama:nigrahasthānaṃ tasya darśanīyam |
+sa ca ‘pramāṇena, tarkeṇa ca vyavahartavyaṃ vādinā |
+prativādin" āpi kath"-āṅga-tattva-jñāna-viparyaya-liṅga:pratijñā-hāny—ādy:anyatama:nigrahasthānaṃ tasya darśanīyam |
 tad-vyutpādane prathamasya bhaṅgo vyavahartavyaḥ |
 anyathā tu, dvitīyasy' aiva |
-‘tādṛś':etarau ca jetṛtayā vyavahartavyau |
-pramāṇikaḥ pakṣas tattvatayā vyavahartavya'’ ity—ādi—rūpaḥ || (ity—ādi rūpam (?))
+tādṛś':etarau ca jetṛtayā vyavahartavyau |
+pramāṇikaḥ pakṣas tattvatayā vyavahartavya'’ ity—ādi—rūpaḥ ||
+
+#### Translation
+
+And it looks like this:
+‘The proponent should behave in accordance with the means of valid knowledge and reasoning.
+As for the the opponent, he should show his inconsistency, which can be any among failing at meeting the proposition, which indicates a misapprehension in understanding the nature of the parts of a debate, etc.
+Deriving from that, defeat of the first should be announced.
+Otherwise, just of the second.’ 
+
+
+#### ŚM Commentary
+
+#### RŚ Commentary
+
+#### Notes
+
+
+### Passage 13
+
+#### Apparatus
+
+#### Text
+
+ata' eva vyavahāra-niyama-samaya-bandhe 'pi hetur vaktavyaḥ |
+tathā ca, so 'pi hetuḥ kathāyāṃ pravṛttāyām abhidhātuṃ yukta' iti pramāṇa-sattv'-ābhyupagama-hetv-abhidhānavat pratyavasthānam an:avakāśām |
+dvābhyām api vādibhyāṃ vicāra-pravṛtty" ābhilaṣyamāṇa—tattva-vyavasthā-jaya-mūlatvena vyavahāra-niyamasya sv'-ecchay" aiva parigṛhītatvāt |
+
+#### Translation
+
+#### ŚM Commentary
+
+#### RŚ Commentary
+
+#### Notes
+
+
+### Passage 14
+
+#### Apparatus
+
+#### Text
+
+na c' aivaṃ pramāṇ'-ān—upajña-sv'-ecchāmātra-gṛhīta—mūlatvān mūl'-ā:pariśuddhi-saṃbhavena sarva:vicāra;vicārya:phala-viplav'-āpattiḥ syāt |
+a:vidyamān'—ādi:pārampary'-āyātasya loka-vyutpatti-gṛhīta—saṃvadasya ca tasy' ānyath" ābhāv'-āsaṃbhāvyatā—lakṣaṇa-svataḥ:siddhi-pariśuddhatvāt |
+
+#### Translation
+
+#### ŚM Commentary
+
+#### RŚ Commentary
+
+#### Notes
+
+### Passage 15
+
+#### Apparatus
+
+#### Text
+
+na ca pramāṇ'—ādīnāṃ satt" āp' īttham ev' obhābhyām aṅgīkartum ucitā;
+tādṛśa-vyavahāra-niyamamātreṇ' aiva kathā-pravṛtty-upapatteḥ,
+pramāṇ'—ādi-sattv'-ābhyupagame 'pi tathā—vidha:vyavahāra-niyama-vyatireke tattva-nirṇayasya jayasya v" ābhilaṣitasya kathakayor aparyavasānāt |
 
 #### Translation
 
