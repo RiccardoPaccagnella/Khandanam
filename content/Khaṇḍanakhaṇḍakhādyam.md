@@ -660,9 +660,9 @@ yo 'yaṃ bhavān sv'-ābhiprāyam api n' āvadhāyarituṃ śaknoti, dūratas t
 
 #### Translation
 
-Therefore, you have adduced this fault in a debate initiated after putting together regulations restricting behaviour with indifference towards accepting the existence or non-existence of the means of valid knowledge etc.
+Therefore, you have adduced this fault with reference to debate initiated after making an agreement about restricting behaviour with indifference towards accepting the existence or non-existence of the means of valid knowledge etc.
 In such a case, it (the fault adduced) would have been just appropriate.
-Hoping that you yourself who are not even able to understand precisely your own intention would be able to understand precisely the opinion of another is indeed far flung.
+Hoping that you yourself who are not even able to understand precisely your own intention would be able to understand precisely the opinion of another is indeed far fetched.
 (You don't even know how you got to establish your own position — 
 It is no wonder that you mistook my position to be that I deny the existence of x)
 
@@ -722,7 +722,7 @@ far flung > far fetched
 #### Text
 
 {atha {‘vādīkṛtya dur:vaitaṇḍikaṃ tasminn upādhau bādho 'bhidhīyata’ ity eva n' eṣyate |
-śiṣy'—adayas tu tasya kath"-ān:adhikāraṃ jñāpyante}₁₋₅₋₁ |
+śiṣy'—ādayas tu tasya kath"-ān:adhikāraṃ jñāpyante}₁₋₅₋₁ |
 ata' eva bhāṣya-kāraḥ ‘sa prayojanam anuyukto yadi pratipadyata’ ity āha sma, na tu ‘pratipadyasa’ iti | ^p81
 
 m" aivam |
@@ -733,15 +733,25 @@ kathāyām eva hi nigrahaḥ}₁₋₅₋₁ ||8||}₁₋₅}₁ ^p82
 
 #### Translation
 
-‘But! I do not wish to state any contradiction in that situation where I took an ill-intentioned contentious person as an opponent.
+‘To start with, I do not wish to say that I would state this fault after having started a debate with a contentious man when he is there affecting the situation.
 Rather, I inform students and others that he is unfit for debate.
-For this very reason, the Commentator (on the Nyāyasūtras) says ‘If he is asked his purpose, he agrees (to debate),’ and not ‘you agree.’’ 
+For this very reason, the Commentator (on the Nyāyasūtras) says ‘If he is asked his purpose, he puts it forth,’ and not ‘you put it forth.’’ 
+(This is a reference to the definition of vaitaṇḍika.
+The idea is: 
+The Commentator uses the third person to refer to the contentious man, not the second person.
+Therefore, he must be speaking to his students, not to the man directly.
+This allows the opponent to claim that he too would not speak to the man directly, but rather only refer to the man in the third person when telling his students that he is unfit for debate.)
 
 Don't go that way.
 You should still tell even your students or others ‘This is the fault of a Cārvāka or the like.’
-And how is that possible?
-Because that refutation would not be possible neither when he has entered a debate nor when he has not?
-In fact, a losing only happens in debates.
+And how could you do that?
+Because that refutation would be possible neither when he has entered a debate nor when he has not.
+For, losing can only happen in a debate.
+(That is, you can prove that someone's position if fallacious only in a debate.
+But you say that you would not engage in a debate with this man.
+So, how could you tell your students that the man is committing this or that fault if you've never debated with him?
+Neither when he has entered a debate: because you have rejected this possibility.
+Nor when he has not: because you cannot possibily state his faults in a debate he has never entered.)
 
 #### ŚM Commentary
 
@@ -837,6 +847,12 @@ The third person shows that he is not speaking to the vaitaṇḍika, but rather
 
 how is that possible > how could it be like that?
 
+Fix translation
+
+tatra vāda;jalpau sa—prayojanau/
+vitaṇḍā tu parīkṣyate/
+vitaṇḍayā pravartamāno vaitaṇḍikaḥ/
+sa prayojanam anuyukto yadi pratipadyate, ‘so 'sya pakṣaḥ, so 'sya siddhānta'’ iti, vaitaṇḍikatvaṃ jahāti/
 
 ### Passage 9
 
@@ -854,11 +870,14 @@ uktaś c' āyam artho ‘yan mādhyamik'—ādi-vāg-vyavahārāṇāṃ svarūp
 
 And it's not the second.
 To explain, it might even be so 
-if the fact that the means of valid knowledge etc are the cause of the utterance that the debaters have to produce were to cease when the they do not accept their existence.
+if the fact that the means of valid knowledge etc are the cause of the utterance that the debaters have to produce were to cease when they do not accept their existence.
+(Which makes accepting them the fundamental difference. 
+If you accept them you can speak, if not you cannot.)
 But that's not possible.
 If it were, the very nature of an utterance could not possibly obtain for those who do not accept their existence; 
 their cause could not apply.
 And we have already addressed the idea that ‘since we cannot talk about the nature of the utterances of Mādhyamikas etc...’
+(You cannot deny the very fact that Mādhyamikas utter words.)
 
 #### ŚM Commentary
 
@@ -893,10 +912,16 @@ niyamarithatiḥ (?) – samaya-bandhaḥ |
 
 ‹pramāṇ'—ādy-abhyupagamasya kathaka-vāg-vyavahāra-hetutvam› |
 
-pramāṇ'—ādy-abhypagam'-ābhāve vāg-vyavahāra-hetor abhāvaḥ; sāmānādhikaraṇyāt |
+pramāṇ'—ādy-abhyupagam'-ābhāve vāg-vyavahāra-hetor abhāvaḥ; sāmānyāt |
 vāg-vyavahāra-hetv-abhāve vāg-vyavahāra-svarūpasy' ābhāvaḥ; hetv-abhāve kāry'-ābhāvāt |
 
-‘mādhyamik'—ādi-pramāṇ'—ādy-an:abhyupagame tad-vāg-vyavahāra-svarūpasy' ābhāva'’ ity āpattiḥ  |
+‘mādhyamik'—ādīnāṃ pramāṇ'—ādy-an:abhyupagame tad-vāg-vyavahāra-svarūpasy' ābhāva'’ ity āpattiḥ  |
+
+yat and iti could go together or it means since
+There is something strange about pramāṇādīnāṃ hetutā 
+According to ŚM, some people have raised an issue – is it the pramāṇādi or abhyupagama?
+
+The point I have already stated ayam arthaḥ
 
 ### Passage 10
 
@@ -917,7 +942,7 @@ sattvāc c' ābhyupagamo bhavatā prasādhyaḥ |}₂₋₂}₂ ^p102
 Otherwise, do you think that 
 ‘since the means of valid knowledge etc are the cause of the debaters' utterance, they exist,
 and since they exist, we accept them,
-because the state of things is that whatever exists is accepted?’
+because of the principle that whatever exists is accepted?’
 
 Don't go there.
 Since the means of valid knowledge etc are the cause of the debaters' utterance in a debate that was produced by a certain fixed set of restrictions, they exist,
@@ -927,21 +952,36 @@ and since they exist, you should make me accept them.
 
 #### RŚ Commentary
 
-kiṃca, ‘yadi śiṣyā' api guruṃ prati vaitaṇḍik'-okta:yuktyā pratyavatiṣṭeran, 
+kiṃca, ‘yadi śiṣyā' api guruṃ prati vaitaṇḍik'-okta:yuktyā pratyavatiṣṭheran, 
 tadā guroḥ kim uttaraṃ syād’ ity a:saṅgatam ev' aitad ‘[[Khaṇḍanakhaṇḍakhādyam#^p101|ath']]’ ety—ādi |
+
+...
+
+vastutas tv ayam api (p.13)
+Since you have to have to prove this before the debate and the debate has already started, it's vyabhicāri.
+Others say that the existance is proved once kathā has started, but the kathā needs to have started in order to talk about it.
+He doesn't agree.
+He refers to Vidyāsāgara and agrees
 
 #### Notes
 
 ‹pramāṇ'—ādīnāṃ kathaka-vāg-vyavahāra-hetutvam |
-tasya hetutvāt teṣāṃ sattvam |
+tad-dhetutvāt teṣāṃ sattvam |
 sattvāt teṣām abhyupagamaḥ |
 ‘yat sat, tad abhyupagamyata’ iti vyāpteḥ› |
 
 kay" āpi niyama-sthityā pravṛttāyāṃ kathāyāṃ pramāṇ'—ādīnāṃ kathaka-vāg-vyavahāra-hetutvam |
-tasya hetutvāt teṣāṃ sattvam |
+tad-dhetutvāt teṣāṃ sattvam |
 sattvāt teṣām abhyupagamaḥ sādhyaḥ |
 ‘yat sat, tat sādhyam’ iti vyāpteḥ |
 ‘na tu tvayā sādhitam’ ity abhiprāyaḥ |
+
+Since the debate has started, they must exists.
+Since they exist, you have to prove
+
+sattvam is uddeśya for prasādhya
+You have to prove they exist because of being 
+sattvaṃ and sattvābhyupagama should be proven
 
 ### Passage 11
 
@@ -955,9 +995,11 @@ tāvad anuroddhavyam |
 
 #### Translation
 
-The two debaters, who either wish to establish the truth or defeat the opponent, should comply to as much as that without which they will not reach their goal.
-And since they can both respect that only by putting together a convention for restricting their behaviour,
-they put together precisely a convention for restricting their behaviour.
+Before the debate, the two debaters, who either wish to establish the truth or defeat the opponent, should comply to as much as that without which they will not reach their goal.
+And since they can both respect that only making an agreement about restricting their behaviour,
+they only  make an agreement about restricting their behaviour. 
+(Nothing else.
+They don't have to accept the means of valid knowledge or whatever other humbug you can think of.)
 
 #### ŚM Commentary
 
@@ -979,20 +1021,21 @@ na tu pramāṇ'—ādy-abhyupagamo 'p'’ īty arthaḥ |
 #### Text
 
 sa ca ‘pramāṇena, tarkeṇa ca vyavahartavyaṃ vādinā |
-prativādin" āpi kath"-āṅga-tattva-jñāna-viparyaya-liṅga:pratijñā-hāny—ādy:anyatama:nigrahasthānaṃ tasya darśanīyam |
+prativādin" āpi kath"-āṅga-tattva-jñāna-viparyaya—liṅga:pratijñā-hāny—ādy:anyatama:nigrahasthānaṃ tasya darśanīyam |
 tad-vyutpādane prathamasya bhaṅgo vyavahartavyaḥ |
 anyathā tu, dvitīyasy' aiva |
 tādṛś':etarau ca jetṛtayā vyavahartavyau |
-pramāṇikaḥ pakṣas tattvatayā vyavahartavya'’ ity—ādi—rūpaḥ ||
+prāmāṇikaḥ pakṣas tattvatayā vyavahartavya'’ ity—ādi—rūpaḥ ||
 
 #### Translation
 
 And it looks like this:
 ‘The proponent should behave in accordance with the means of valid knowledge and reasoning.
-As for the the opponent, he should show his inconsistency, which can be any among failing at meeting the proposition, which indicates a misapprehension in understanding the nature of the parts of a debate, etc.
-Deriving from that, defeat of the first should be announced.
-Otherwise, just of the second.’ 
-
+As for the opponent, he should show his (the proponent's) inconsistency, which can be any among failing at meeting the proposition, which indicates a misapprehension in understanding the nature of the parts of a debate, etc.
+If that is demonstated, defeat of the first should be announced.
+Otherwise, just of the second.
+And the opposite applies as regards the victor:
+the position which agrees with the means of valid knowledge should be considered true.’ 
 
 #### ŚM Commentary
 
@@ -1000,6 +1043,10 @@ Otherwise, just of the second.’
 
 #### Notes
 
+Find a list of nigrahasthānas
+
+tādṛśetarau
+Swap them around 
 
 ### Passage 13
 
@@ -1007,35 +1054,74 @@ Otherwise, just of the second.’
 
 #### Text
 
-ata' eva vyavahāra-niyama-samaya-bandhe 'pi hetur vaktavyaḥ |
-tathā ca, so 'pi hetuḥ kathāyāṃ pravṛttāyām abhidhātuṃ yukta' iti pramāṇa-sattv'-ābhyupagama-hetv-abhidhānavat pratyavasthānam an:avakāśām |
-dvābhyām api vādibhyāṃ vicāra-pravṛtty" ābhilaṣyamāṇa—tattva-vyavasthā-jaya-mūlatvena vyavahāra-niyamasya sv'-ecchay" aiva parigṛhītatvāt |
+ata' eva, ‘‹vyavahāra-niyama-samaya-bandhe 'pi [[kathakavāgvyavahārahetuḥ|hetur]] vaktavyaḥ |
+tathā ca, so 'pi [[kathakavāgvyavahārahetuḥ|hetuḥ]] kathāyāṃ pravṛttāyām abhidhātuṃ yukta'›’ iti pramāṇa-sattv'-ābhyupagama-hetv-abhidhānavat [[pratyavasthānam]] an:avakāśam;
+dvābhyām api vādibhyāṃ vicāra-pravṛtty" ābhilaṣyamāṇa—tattva-vyavasthā;jaya-mūlatvena vyavahāra-niyamasya sv'-ecchay" aiva parigṛhītatvāt ||13|| ^p131
 
 #### Translation
+
+For this very reason, there is no chance to object like when we were naming the reason for accepting the means of valid knowledge etc by saying
+‘Even though an agreement about restricting behaviour was made, you should still state the cause (of the debaters' utterance).
+And, in the same way (as before), you should state even this cause once the debate has begun.’
+For both debaters accept the restriction in behaviour of their own accord (or according to their own will) by applying some thought, as it (the restriction) is the basis for the establishing of truth or victory they wish for.
+(If we define a debate as ‘that thing which happens when two people speak to each other to either establish truth or defeat the other's position,’ 
+it would be nonsensical to ask ‘What is the cause of their utterances?’
+The debate happened because that's what happens when two people speak to each other to either establish truth or defeat the other's position.)
+
+#### VS Commentary
+
+‘‹yathā satt"-ābhyupagamo hetu-sādhyas,
+tathā niyama-bandhasy' āpi hetu-sādhyatve syād ayaṃ doṣaḥ› |
+na tv evam |
+dvābhyāṃ mithaḥ saṃpratipattyā phala-rāgāt tat-svīkārād’ ity arthaḥ |
 
 #### ŚM Commentary
 
 #### RŚ Commentary
 
+‘samaya-bandhasya sv'-ecchā-parigṛhītatve vipratipannaḥ kakṣ(>th)āyām eva bodhya'’ iti ‘sa doṣaḥ tad—avastha'’ iti Śaṃkaramiśrāṇāṃ y" āśaṅkā, sā kathāyā' na virodhinī |
+
 #### Notes
 
+NyS_1,2.18 : sādharmyavaidharmyābhyāṃ pratyavasthānaṃ jātiḥ
+prayukte hi hetau yaḥ prasaṅgo jāyate sa jātiḥ/ sa ca prasaṅgaḥ sādharmyavaidharmyābhyāṃ pratyavasthānam upālambhaḥ pratiṣedha iti/
+% sādharmyavaidharmyābhyāṃ ...] p.402<BR>
+''udāharaṇasādharmyāt sādhyasādhanaṃ hetur'' ity asyodāharaṇavaidharmyeṇa pratyavasthānam, ''udāharaṇavaidharmyāt sādhyasādhanaṃ hetur'' ity asyodāharaṇasādharmyeṇa pratyavasthānam, pratyanīkabhāvāt/ jāyamāno 'rtho jātir iti//<BR>
+
+"Futility consists in offering objections founded on mere similarity or dissimilarity."
 
 ### Passage 14
 
 #### Apparatus
 
+avidyāvidyādi ] ŚM; avidyamānādi RŚ, VS
+
 #### Text
 
-na c' aivaṃ pramāṇ'-ān—upajña-sv'-ecchāmātra-gṛhīta—mūlatvān mūl'-ā:pariśuddhi-saṃbhavena sarva:vicāra;vicārya:phala-viplav'-āpattiḥ syāt |
-a:vidyamān'—ādi:pārampary'-āyātasya loka-vyutpatti-gṛhīta—saṃvadasya ca tasy' ānyath" ābhāv'-āsaṃbhāvyatā—lakṣaṇa-svataḥ:siddhi-pariśuddhatvāt |
+na c' aivaṃ pramāṇ'-ān—upajña-sv'-ecchāmātra-gṛhīta—mūlatvān mūl'-ā:pariśuddhi-saṃbhavena sarva:vicāra;vicārya;phala-viplav'-āpattiḥ syāt |
+avidyā;vidy"—ādi:pārampary'-āyātasya loka-vyutpatti-gṛhīta—saṃvādasya ca tasy' ānyath" ābhāv'-āsaṃbhāvyatā—lakṣaṇa-svataḥ:siddhi-pariśuddhatvāt |
 
 #### Translation
 
+And this would not incur in the undesirable occurrence where all judgments, objects of judgment and fruits of judgment would float into nothingness
+although they (judgments etc) arose from an impure basis
+which was decided at will by people who have not ascertained the means of valid knowledge on their own accord (as opposed to accpeting them because of tradition).
+
 #### ŚM Commentary
+
+vicāra-viplavaḥ sādhana;dūṣaṇa-prayog'-ā:vyavasthā |
+vicārya-viplavaḥ pakṣa;vipakṣ'-ā:vyavasthā, vādi;prativādy-a:vyavasthā vā;
+tayor api vicāryatvāt |
+phala-viplavo jaya;bhaṅg'-ā:vyavasthā, tattva-nirṇay'-ā:vyavasthā ca |
+yadvā, vicāra-viplavaḥ pramity-a:janakatvaṃ |
+vicārya-viplavaḥ pramity-a—viṣayatvaṃ,
+phala-viplavo jay'—ādy-abhāvaḥ |
 
 #### RŚ Commentary
 
 #### Notes
+
+Long comment in VS's editor for the variant
 
 ### Passage 15
 
@@ -1045,7 +1131,7 @@ a:vidyamān'—ādi:pārampary'-āyātasya loka-vyutpatti-gṛhīta—saṃvadas
 
 na ca pramāṇ'—ādīnāṃ satt" āp' īttham ev' obhābhyām aṅgīkartum ucitā;
 tādṛśa-vyavahāra-niyamamātreṇ' aiva kathā-pravṛtty-upapatteḥ,
-pramāṇ'—ādi-sattv'-ābhyupagame 'pi tathā—vidha:vyavahāra-niyama-vyatireke tattva-nirṇayasya jayasya v" ābhilaṣitasya kathakayor aparyavasānāt |
+pramāṇ'—ādi-sattv'-ābhyupagame 'pi tathā—vidha:vyavahāra-niyama-vyatireke tattva-nirṇayasya jayasya v" ābhilaṣitasya kathakayor a:paryavasānāt |
 
 #### Translation
 
