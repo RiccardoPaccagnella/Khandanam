@@ -228,7 +228,7 @@ pramāṇ'-ādy-abhyupagam'-ādhīnatvaṃ kathāyāḥ khaṇḍayitum upakrama
 
 (tad apare na kṣamante | \
 tathā hi, pramāṇ'—ādīnāṃ sattvaṃ yad abhyupeyaṃ kathakena, tat kasya hetoḥ?)₁ \
-({kiṃ ‹[[pramāṇādīnāṃ sattvam|tad]] an:abhyupagacchadbhyāṃ vādi;prativ'—ādibhyāṃ [[pramāṇādīnāṃ sattvam|tad]]-abhyupagama-sāhitya-niyatasya vāg-vyavahārasya pravartayitum a:śakyatvāt›?}₁ \
+({kiṃ ‹[[pramāṇādīnāṃ sattvam|tad]] an:abhyupagacchadbhyāṃ vādi;prativādibhyāṃ [[pramāṇādīnāṃ sattvam|tad]]-abhyupagama-sāhitya-niyatasya vāg-vyavahārasya pravartayitum a:śakyatvāt›?}₁ \
 {uta ‹kathakābhyāṃ pravartanīya:vāg-vyavahāraṃ prati hetutvāt›?}₂ \
 {uta ‹loka-siddhatvāt›?}₃ \
 {athavā ‹[[pramāṇādīnāṃ sattvam|tad]]-an:abhyupagamasya [[tattvanirṇayaḥ|tattva-nirṇaya]];[[vijayaḥ|vijaya]]:phal'-ātiprasañjakatvāt›?}₄)₂ ||2|| ^p2
@@ -1013,6 +1013,14 @@ na tu pramāṇ'—ādy-abhyupagamo 'p'’ īty arthaḥ |
 
 #### Notes
 
+tad-abhilaṣitam or tad abhilaṣitam
+
+tat refers to the entire situation so it's the anurodhaḥ
+
+bandhāt is because of or through, on the basis of
+
+respect > imagine/conceive
+they can make it possible
 
 ### Passage 12
 
@@ -1029,13 +1037,13 @@ prāmāṇikaḥ pakṣas tattvatayā vyavahartavya'’ ity—ādi—rūpaḥ ||
 
 #### Translation
 
-And it looks like this:
+And it looks something like this:
 ‘The proponent should behave in accordance with the means of valid knowledge and reasoning.
 As for the opponent, he should show his (the proponent's) inconsistency, which can be any among failing at meeting the proposition, which indicates a misapprehension in understanding the nature of the parts of a debate, etc.
-If that is demonstated, defeat of the first should be announced.
+If that is demonstrated, defeat of the first should be accepted.
 Otherwise, just of the second.
-And the opposite applies as regards the victor:
-the position which agrees with the means of valid knowledge should be considered true.’ 
+And the opposite applies as regards the victor.
+The position which agrees with the means of valid knowledge should be considered true.’ 
 
 #### ŚM Commentary
 
@@ -1048,25 +1056,27 @@ Find a list of nigrahasthānas
 tādṛśetarau
 Swap them around 
 
+inconsistency > not broad enough. Add points of defeat
+
+And the opposite applies as regards the victor: > too free
+The two who are other than those (1 > 2, 2 > 1) should be treated as a victor
+
 ### Passage 13
 
 #### Apparatus
 
 #### Text
 
-ata' eva, ‘‹vyavahāra-niyama-samaya-bandhe 'pi [[kathakavāgvyavahārahetuḥ|hetur]] vaktavyaḥ |
-tathā ca, so 'pi [[kathakavāgvyavahārahetuḥ|hetuḥ]] kathāyāṃ pravṛttāyām abhidhātuṃ yukta'›’ iti pramāṇa-sattv'-ābhyupagama-hetv-abhidhānavat [[pratyavasthānam]] an:avakāśam;
+ata' eva, ‘‹vyavahāra-niyama-samaya-bandhe 'pi hetur vaktavyaḥ |
+tathā ca, so 'pi [[vyavahāraniyamasamayabandhahetuḥ|hetuḥ]] kathāyāṃ pravṛttāyām abhidhātuṃ yukta'›’ iti pramāṇa-sattv'-ābhyupagama-hetv-abhidhānavat [[pratyavasthānam]] an:avakāśam;
 dvābhyām api vādibhyāṃ vicāra-pravṛtty" ābhilaṣyamāṇa—tattva-vyavasthā;jaya-mūlatvena vyavahāra-niyamasya sv'-ecchay" aiva parigṛhītatvāt ||13|| ^p131
 
 #### Translation
 
-For this very reason, there is no chance to object like when we were naming the reason for accepting the means of valid knowledge etc by saying
-‘Even though an agreement about restricting behaviour was made, you should still state the cause (of the debaters' utterance).
+For this very reason, there is no chance to object in the way we did when we were naming the reason for accepting the means of valid knowledge etc by saying
+‘You have to state the cause even for making an agreement about restricting behaviour.
 And, in the same way (as before), you should state even this cause once the debate has begun.’
 For both debaters accept the restriction in behaviour of their own accord (or according to their own will) by applying some thought, as it (the restriction) is the basis for the establishing of truth or victory they wish for.
-(If we define a debate as ‘that thing which happens when two people speak to each other to either establish truth or defeat the other's position,’ 
-it would be nonsensical to ask ‘What is the cause of their utterances?’
-The debate happened because that's what happens when two people speak to each other to either establish truth or defeat the other's position.)
 
 #### VS Commentary
 
@@ -1083,29 +1093,45 @@ dvābhyāṃ mithaḥ saṃpratipattyā phala-rāgāt tat-svīkārād’ ity art
 
 #### Notes
 
-NyS_1,2.18 : sādharmyavaidharmyābhyāṃ pratyavasthānaṃ jātiḥ
-prayukte hi hetau yaḥ prasaṅgo jāyate sa jātiḥ/ sa ca prasaṅgaḥ sādharmyavaidharmyābhyāṃ pratyavasthānam upālambhaḥ pratiṣedha iti/
-% sādharmyavaidharmyābhyāṃ ...] p.402<BR>
-''udāharaṇasādharmyāt sādhyasādhanaṃ hetur'' ity asyodāharaṇavaidharmyeṇa pratyavasthānam, ''udāharaṇavaidharmyāt sādhyasādhanaṃ hetur'' ity asyodāharaṇasādharmyeṇa pratyavasthānam, pratyanīkabhāvāt/ jāyamāno 'rtho jātir iti//<BR>
+vyavahāra-niyama-samaya-bandhe hetur na vaktavyaḥ; svataḥ:siddhatvāt |
 
+NyS_1,2.18 : sādharmyavaidharmyābhyāṃ pratyavasthānaṃ jātiḥ
 "Futility consists in offering objections founded on mere similarity or dissimilarity."
+
+Like doesn't work well
+chance to object as there is when we...
+
+Should samayabandhe be connected with hetu
+Why do we have to make this agreement?
+
+by applying some thought 
+I don't see, not others would, why I should have to agree to that
+But in my case, anyone, if they think a little about it, can make some agreement
 
 ### Passage 14
 
 #### Apparatus
 
-avidyāvidyādi ] ŚM; avidyamānādi RŚ, VS
+avidyamānādi ] RŚ, VS; avidyāvidyādi ŚM
 
 #### Text
 
-na c' aivaṃ pramāṇ'-ān—upajña-sv'-ecchāmātra-gṛhīta—mūlatvān mūl'-ā:pariśuddhi-saṃbhavena sarva:vicāra;vicārya;phala-viplav'-āpattiḥ syāt |
-avidyā;vidy"—ādi:pārampary'-āyātasya loka-vyutpatti-gṛhīta—saṃvādasya ca tasy' ānyath" ābhāv'-āsaṃbhāvyatā—lakṣaṇa-svataḥ:siddhi-pariśuddhatvāt |
+na c' aivaṃ pramāṇ'-ān—upajña-sv'-ecchāmātra-gṛhīta—mūlatvān mūl'-ā:pariśuddhi-saṃbhavena sarva:vicāra;vicārya;phala-viplav'-āpattiḥ syāt;
+a:vidyamān'—ādi:pārampary'-āyātasya loka-vyutpatti-gṛhīta—saṃvādasya ca tasy' ānyathā:bhāv'-āsaṃbhāvyatā—lakṣaṇa:svataḥ:siddhi-pariśuddhatvāt |
 
 #### Translation
+[[mūlam]]
 
-And this would not incur in the undesirable occurrence where all judgments, objects of judgment and fruits of judgment would float into nothingness
-although they (judgments etc) arose from an impure basis
-which was decided at will by people who have not ascertained the means of valid knowledge on their own accord (as opposed to accpeting them because of tradition).
+And, in this way, there wouldn't be the undesirable consequence that all thoughts, objects of thought and fruits of thought would fall into ruin because of the possibility that their basis is impure since it's accepted voluntarily by people who do not accept the traditional means of valid knowledge.
+(That is, the opponent might argue: 
+‘If the debaters do not accept the means of valid knowledge, 
+the very basis of their debate would be impure and, therefore, ruin everything that derives from it.
+It would be impure because it would rely only on the debaters' whims, their desire to win.’)
+This is because it (the basis), which came to us through beginningless tradition and whose likeness is confirmed by the behaviour of the common man, is completely pure having been established by itself, which is proof of the fact that it could not be conceived to be otherwise.
+(The basis is not impure – 
+it is the purest it could be, 
+because it is self established
+and, in this way, it is not sullied by any presuppositions.)
 
 #### ŚM Commentary
 
@@ -1119,9 +1145,42 @@ phala-viplavo jay'—ādy-abhāvaḥ |
 
 #### RŚ Commentary
 
+pramāṇ'-ān:upajñ" eti |
+pramāṇ'-ān:upajñā pramāṇ'—ādi:gocar'-ādya:jñāna—śūnyā 
+
 #### Notes
 
 Long comment in VS's editor for the variant
+
+jñānam ādyam ity Amaraḥ
+
+svopajñā "autocommentary (something whose knowledge comes from oneself)" is the only common compound of upajñā
+
+saṃbhavena
+Because of the possibility that the root is impure
+
+Haru disagrees with RŚ
+
+And it is not the case that as you might say in my position there is an undesirable consequence because everything is based on somehting that is accepted volutarily by people who do not accept pramana because of the possibility that your mula is incorrect.
+If you don't accept pramana, and you just take something svecchayā, who tested your basis? 
+It's tainted by your desire to win.
+
+strange ca ?
+tasya refers to the mūla, i.e. the samayabandha
+Because the mūla is completely pure because it is self established, the not being conceivable of being otherwise that makes constitutes svataḥ siddhiḥ.
+
+avidyamānādi is nicer
+the mūla has come down to us in a succession that has no beginning.
+
+gṛhīta—saṃvāda
+It's confirmed by the 
+
+RŚ glosses vyutpatti as vyavahāra "training, behaviour"
+
+Lots of Vedantic works comment on big chunks of the Khaṇḍana
+What's loka-vyutpatti
+Śrutaprakāśikā (commentary on Rāmānuja):
+
 
 ### Passage 15
 
@@ -1130,10 +1189,14 @@ Long comment in VS's editor for the variant
 #### Text
 
 na ca pramāṇ'—ādīnāṃ satt" āp' īttham ev' obhābhyām aṅgīkartum ucitā;
-tādṛśa-vyavahāra-niyamamātreṇ' aiva kathā-pravṛtty-upapatteḥ,
+tādṛśa:vyavahāra-niyamamātreṇ' aiva kathā-pravṛtty-upapatteḥ,
 pramāṇ'—ādi-sattv'-ābhyupagame 'pi tathā—vidha:vyavahāra-niyama-vyatireke tattva-nirṇayasya jayasya v" ābhilaṣitasya kathakayor a:paryavasānāt |
 
 #### Translation
+
+And, the existence of the means of valid knowledge does not have to be accepted in the same way by the two debaters.
+For a debate can begin even by merely restricting one's behaviour is such a way (as we described),
+and even if the debaters did accept the existence of the means of valid knowledge etc, as opposed to restricting their behaviour in this way, their goal of establishing the truth or winning would not come to an end.
 
 #### ŚM Commentary
 
@@ -1141,5 +1204,8 @@ pramāṇ'—ādi-sattv'-ābhyupagame 'pi tathā—vidha:vyavahāra-niyama-vyati
 
 #### Notes
 
+pramāṇ'—ādi-sattāyāṃ hetur vaktavyaḥ; \
+pramāṇ'—ādy-abhāve 'pi kathāyāḥ siddhatvāt,\
+pramāṇ'—ādi-sattve 'pi kathak'-ābhilaṣita:mūl'-ā:pariśuddhi-saṃbhavasya sattvāt 
 
 #BibTeX  
