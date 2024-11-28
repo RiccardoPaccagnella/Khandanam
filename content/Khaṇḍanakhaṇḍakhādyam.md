@@ -959,7 +959,7 @@ tadā guroḥ kim uttaraṃ syād’ ity a:saṅgatam ev' aitad ‘[[Khaṇḍan
 
 vastutas tv ayam api (p.13)
 Since you have to have to prove this before the debate and the debate has already started, it's vyabhicāri.
-Others say that the existance is proved once kathā has started, but the kathā needs to have started in order to talk about it.
+Others say that the existence is proved once kathā has started, but the kathā needs to have started in order to talk about it.
 He doesn't agree.
 He refers to Vidyāsāgara and agrees
 
@@ -1120,11 +1120,10 @@ na c' aivaṃ pramāṇ'-ān—upajña-sv'-ecchāmātra-gṛhīta—mūlatvān m
 a:vidyamān'—ādi:pārampary'-āyātasya loka-vyutpatti-gṛhīta—saṃvādasya ca tasy' ānyathā:bhāv'-āsaṃbhāvyatā—lakṣaṇa:svataḥ:siddhi-pariśuddhatvāt |
 
 #### Translation
-[[mūlam]]
 
-And, in this way, there wouldn't be the undesirable consequence that all thoughts, objects of thought and fruits of thought would fall into ruin because of the possibility that their basis is impure since it's accepted voluntarily by people who do not accept the traditional means of valid knowledge.
+And, it is not the case that in this way there would be the undesirable consequence that all thoughts, objects of thought and fruits of thought would fall into ruin because of the possibility that their basis is impure they are based on something accepted voluntarily by people who lack the traditional means of valid knowledge.
 (That is, the opponent might argue: 
-‘If the debaters do not accept the means of valid knowledge, 
+‘If the debaters might lack knowledge of the means of valid knowledge, 
 the very basis of their debate would be impure and, therefore, ruin everything that derives from it.
 It would be impure because it would rely only on the debaters' whims, their desire to win.’)
 This is because it (the basis), which came to us through beginningless tradition and whose likeness is confirmed by the behaviour of the common man, is completely pure having been established by itself, which is proof of the fact that it could not be conceived to be otherwise.
@@ -1181,10 +1180,23 @@ Lots of Vedantic works comment on big chunks of the Khaṇḍana
 What's loka-vyutpatti
 Śrutaprakāśikā (commentary on Rāmānuja):
 
+New:
+
+thoughts > philosophical investigations, reflections
+
+In elucidation note, add svecchā
+
+saṃvādaḥ here is "confirmation, corroboration"
+it has gotten confirmation
+
+asaṃbhāvyatā—lakṣaṇa:svataḥ:siddhi > which is the fact that otherwise even be conceived
 
 ### Passage 15
 
 #### Apparatus
+
+abhyupagame ] abhyupetya VS
+kathāpravṛttiṃ vinā ] VS (reported in ŚM)
 
 #### Text
 
@@ -1194,8 +1206,8 @@ pramāṇ'—ādi-sattv'-ābhyupagame 'pi tathā—vidha:vyavahāra-niyama-vyati
 
 #### Translation
 
-And, the existence of the means of valid knowledge does not have to be accepted in the same way by the two debaters.
-For a debate can begin even by merely restricting one's behaviour is such a way (as we described),
+And, even the existence of the means of valid knowledge etc does not have to be accepted in the same way by the two debaters.
+For a debate can begin even by merely restricting one's behaviour in such a way (as we described),
 and even if the debaters did accept the existence of the means of valid knowledge etc, as opposed to restricting their behaviour in this way, their goal of establishing the truth or winning would not come to an end.
 
 #### ŚM Commentary
@@ -1204,8 +1216,160 @@ and even if the debaters did accept the existence of the means of valid knowledg
 
 #### Notes
 
-pramāṇ'—ādi-sattāyāṃ hetur vaktavyaḥ; \
+pramāṇ'—ādi-satt"-ābhyupagame hetur vaktavyaḥ; \
 pramāṇ'—ādy-abhāve 'pi kathāyāḥ siddhatvāt,\
 pramāṇ'—ādi-sattve 'pi kathak'-ābhilaṣita:mūl'-ā:pariśuddhi-saṃbhavasya sattvāt 
+
+And it is not the case that it is proper that both accept also the existence of... in exactly the same way
+
+vyatireka = abhāva ish
+
+VS gauravam
+There is anvaya and vyatireka of samayabandha but not of pramāṇādisattā
+
+AB
+~AB
+A~B
+~A~B
+
+With kathāpravṛttiṃ vinā
+
+### Passage 16
+
+#### Apparatus
+
+#### Text
+
+{n' āpi [[pramāṇādisattvaṃ lokasiddham, ato 'bhyupagantavyam|tṛtīyaḥ]] |
+{loka-vyavahāro hi prāmāṇika-vyavahāro vā syāt,}₃₋₁ {pāmar'—ādi-sādhāraṇa:vyavahāro vā}₃₋₂ |
+{n' [[lokavyavahāraḥ prāmāṇikavyavahāraḥ|ādyaḥ]] |
+vicāra-pravṛttim antareṇa [[prāmāṇikavyavahāraḥ|tasya]] dur:nirūpatvāt |
+[[vicāraḥ|tad]]—artham eva ca pūrvaṃ niyamasya gaveṣaṇāt |}₃₋₁ ^p161
+
+{n' āpi [[lokavyavahāraḥ pāmarādisādhāraṇavyavahāraḥ|dvitīyaḥ]] |
+śarīr'-ātmat"—ādīnām api tathā sati bhavatā svīkartavyat"-āpātāt |
+‘‹paścāt tad-vicāra-bādhyatayā n' ābhyupeyata’ iti cet,
+tarhi pramāṇ'—ādayo 'pi yadi vicāra-bādhyā' bhaviṣyanti, 
+tadā n' ābhyupeyā' eva,
+anyathā t' ‘ūpagantavyā'›’ iti ‘‹loka-vyavahāra-siddhatayā sattvam abhyupagamyata›’ iti tāvan na bhavati ||}₃₋₂}₃ ^p162
+
+#### Translation
+
+It's not the third either. 
+(Namely that we should accept the existence of means of valid knowledge etc because people at large accept them) 
+For people's behaviour is either behaviour founded on authority or the common behaviour of fools and the like.
+It's not the first.
+For it (how to behave according to authority) can hardly be investigated without applying some thought
+and, for the latter (the application of thought) to take place, at first restrictions (in behaviour) are to be sought.
+
+And it's not the second.
+(People's behaviour cannot be the common behaviour of fools and the like)
+For if it were the case, unfortunately you would have to accept at once ideas such as the body being the same as the soul and the like.
+If you say:
+‘Later since they contradict our mental investigations, we will not accept them,’ 
+then if the means of valid knowledge etc as well become contradictory to your mental investigations, 
+they too should not be accepted.
+Otherwise, they should be.
+But this does not mean at all that we accept their existence because the behaviour of people at large establishes it.
+
+#### ŚM Commentary
+
+#### RŚ Commentary
+
+#### Notes
+
+lokasiddha = lokavyavahārasiddha
+
+it's hard to determine without vicārapravṛtti (i.e. in debate)
+
+there is a circularity because we have to establishet it before a debate
+
+śarīr'-ātmatā
+the lokavyavahāra which establishes pramāṇādisattā is established by pāmaras, why don't we say that we should accept 
+
+We don't accept śarīrātmatva because we can debate it away
+Then we could refute pramāṇa
+
+### Passage 17
+
+#### Apparatus
+
+#### Text
+
+n' āpi [[tadanabhyupagamasya phalātiprasañjakatvād tadabhyupagamaḥ|caturthaḥ]] |
+yādṛśo bhavatā pramāṇ'—ādīny abhyupagamya vyavahāra-niyamaḥ kathāyām ālambyate,
+[[vyavahāraniyamaḥ|tasy']] aiva pramāṇ'—ādi-sattv';ā:sattv'-ānusaraṇ'-odāsīnair asmābhir apy avalambanāt |
+tasya yadi māṃ prati phal'-ātiprasañjakatvaṃ,
+tadā tvāṃ praty api samānaḥ prasaṅgaḥ ||
+
+#### Translation
+
+And it's not the fourth.
+For I too, who is indifferent to going after the existence or non-existence of the means of valid knowledge etc, resort to the very same restrictions in behaviour that you resort to in a debate after having accepted the means of valid knowledge etc;
+if they (the restrictions in behaviour) lead me to undesirable conclusions concerning my goal, you would have the same problem.
+
+#### ŚM Commentary
+
+#### RŚ Commentary
+
+#### Notes
+
+That kind of vyavahāra that is relied upon by you is not relied on by us
+because we don't care
+
+tadanabhyupagamasya for second tasya
+phalasya not phale
+
+### Passage 18
+
+#### Apparatus
+
+#### Text
+
+‹syād etan
+‘niyata:vāg-vyavahāra-kriyā-samaya-bandhena kathāṃ pravartayat" āpi vyavahara-satt" ābhyupagantavyā |
+na hi sattām an:abhyupagamya vyavahāra-kriy"-ābhidhātuṃ śakyā |
+kriyā hi niṣpādanā |
+‘a:sataḥ sad:rūpatā-prāpaṇam’ iti yāvat |
+‘pramāṇair vyavahartavyam’ iti niyama-bandhanaṃ pramāṇa-kāraṇa-bhāvasya niyam'-āntarbhāvān niyata:pūrva:sattva—rūpaṃ kāraṇatvaṃ pramāṇānām an:ādāya na paryavasyati |
+dūṣaṇānāṃ c' āstitvena bhaṅg'-āvadhāraṇa-niyama-bandhane sādhan'—āṅgānāṃ vyāpty—ādīnāṃ sattvena tad—viṣayasya tattva-rūpatā-vyavahāra-niyama-nādau ca kaṇṭh'-oktam eva ‘tasya tasya sattvam aṅgīkṛtam’ iti riktam idam ucyate ‘pramāṇ'—ādīnāṃ sattām an:abhyupagamya kath"-ārambhaḥ śakyata’’
+iti?› |
+
+#### Translation
+
+Might it be so?
+He too who begins a debate by making an agreement about restricted actions of the behaviour of his speech should accept the existence of _behaviour_.
+For he cannot name the action of behaving without accepting its existence, as an action is but producing something that wasn't there –
+simply put, bringing about the form of something that exists from non-existence.
+The agreement in restrictions ‘One should behave in accordance with the means of valid knowledge’ does not come to an end if one does not accept the fact that the means of valid knowledge are a cause in the form of a prior restricted existence,
+because the fact that the means of valid knowledge are a cause is contained in the restrictions.
+And, since faults exist in the agreement on restrictions by ascertaining defeat and since logical pervasion etc, which have means as their subsidiaries, exist the existence of this and that is accepted just by our throats in a sound with restrictions in behaviour regarding the form of truth.
+So, the following statement is meaningless:
+‘A debate can begin without accepting the existence of the means of valid knowledge.’
+
+#### VS Commentary
+
+niyatatvaṃ samaya-viśeṣaṇam |
+‘niyama-bandha' ev' ā:paryavasāna-vṛttyā vyavahāra-sattāṃ svīkārayat'’ īty āśayaḥ |
+
+#### Notes
+
+### Passage 19
+
+#### Apparatus
+
+#### Text
+
+m" aivam |
+ebhir api bādhakaiḥ kathāyām ārabdhāyām ev' abhimatasya prasādhanīyatve pūrv':okta:bādhāyā' a:nistārāt |
+
+#### Translation
+
+#### ŚM Commentary
+
+#### RŚ Commentary
+
+#### Notes
+
 
 #BibTeX  
