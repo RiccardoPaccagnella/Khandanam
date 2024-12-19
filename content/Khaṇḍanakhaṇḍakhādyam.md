@@ -1344,7 +1344,7 @@ for me results in that, then for you too
 
 #### Text
 
-{‹syād etan –
+{‹syād etat –
 ‘niyata:vāg-vyavahāra-kriyā-samaya-bandhena kathāṃ pravartayat" āpi vyavahāra-satt" ābhyupagantavyā |
 na hi sattām an:abhyupagamya vyavahāra-kriy"-ābhidhātuṃ śakyā |
 kriyā hi niṣpādanā |
@@ -1363,13 +1363,13 @@ riktam idam ucyate
 You might have this idea:
 He too who begins a debate by making an agreement about performing a certain kind of verbal interaction should accept the existence of the _interaction_.
 For without accepting its existence he couldn't even speak about performing said interaction.
-For performing is producing something that wasn't there –
+For performing is producing –
 simply put, bringing something that does not exist to the state of having an existing form.
-The making of the restrictions ‘One should behave in accordance with the means of valid knowledge’ does not result without comprehending that, since the causality of the means of valid knowledge is included in the restrictions, the means of valid knowledge have a cause whose nature necessarily exists beforehand.
+The making of the restriction ‘One should behave in accordance with the means of valid knowledge’ does not result without comprehending that, since the causality of the means of valid knowledge is included in the restriction, the means of valid knowledge have a cause whose nature necessarily exists beforehand.
 And, when we make an agreement about how to determine defeat in as much as faults exist
 and when we concur in treating the object of the components of our proofs as being true in as much as they (the components of proofs), such as universal concomitance etc, exist,
 we have basically accepted the existence of this or that one after the other.
-Therefore, saying ‘You can being a debate without accepting the existence of the means of valid knowledge etc’ is a worthless statement.
+Therefore, saying ‘You can begin a debate without accepting the existence of the means of valid knowledge etc’ is a worthless statement.
 
 #### VS Commentary
 
@@ -1408,6 +1408,15 @@ or when such and such a fault exists you have lost
 niyamana = niyamabandhana
 in these, it's almost the same as saying that you have accepted the truth of this or that
 
+new:
+
+the means of valid knowledge are a cause, not have a cause. 
+A cause is something that always exist in advance.
+
+the object of the components of our proofs
+
+kaṇṭhokta is something explicitly, loudly stated
+
 ### Passage 19
 
 #### Apparatus
@@ -1419,8 +1428,8 @@ ebhir api bādhakaiḥ kathāyām ārabdhāyām ev' ābhimatasya prasādhanīyat
 
 #### Translation
 
-Do say that.
-For, as what you wish to establish can only be proven in a debate that has begun even by means of these contradictions, you have not escaped the flaw we mentioned earlier.
+Don't say that.
+For, since what you wish to achieve even by these contradictions has to be proven in a debate that has already started, you have not escaped the flaw we mentioned earlier.
 
 #### VS Commentary
 
@@ -1431,52 +1440,61 @@ tathā ca, na tad antareṇa kathā-pravṛttiḥ |
 
 State the bādhā clearly
 
+you want to prove something with certain bādhakas.
+Your bādhakas are meant to prove your position
+bādhaka goes with prasādhanīya
+
 ### Passage 20
 
 #### Apparatus
 
 #### Text
 
-na ca vyavahāra-niyamasya sv'-ecchā-kṛtasy' aiva pramāṇ'—ādi-sattā-svīkāra-paryavasāyitayā n' āyaṃ (mama vacaḥ(?)) doṣaḥ syāt |
-yataḥ, sattā-jñānasya tatr' (vacasi (?)) āṅgatvaṃ,
+na ca ‹vyavahāra-niyamasya sv'-ecchā-kṛtasy' aiva pramāṇ'—ādi-sattā-svīkāra-paryavasāyitayā n' āyaṃ doṣaḥ syāt› |
+yataḥ, sattā-jñānasya [[vyavahāraniyamaḥ|tatr']] āṅgatvaṃ,
 na tu sattāyāḥ | ^p201
 
-{{tatra (?) kiṃ ‘satt"-āvagamamātrāt satt" ābhyupagamy"’ eti manyase,}₄₋₂₋₁ 
-{a:bādhitāt [[sattā|tad]]-avagamād vā?}₄₋₂₋₂ ^p202
+{{tatra kiṃ ‘satt"-āvagamamātrāt satt" ābhyupagamy"’ eti manyase,}₄₋₂₋₁ 
+{':bādhitāt [[sattā|tad]]-avagamād vā?}₄₋₂₋₂ ^p202
 
 {na tāvad [[sattāvagamamātrāt sattābhyupagamaḥ|ādyaḥ]];
-marumarīcik'—ādau jala—rūpatā-sad:bhāv'-ābhyupagama-prasaṅgāt |}₄₋₂₋₁ ^p203
+maru-marīcik'—ādau jala—rūpatā-sad:bhāv'-ābhyupagama-prasaṅgāt |}₄₋₂₋₁ ^p203
 
-{dvitīye 'pi {kiṃ vādi;prativādi-madhyasthamātrasya tasy' āpi kathā-kālamātra eva bādhit':āvagam'-ābhāvāt,}₄₋₂₋₂₋₁
+{[[abādhitāt sattāvagamāt sattābhyupagamaḥ|dvitīye]] 'pi {kiṃ vādi;prativādi-madhyasthamātrasya tasy' āpi kathā-kālamātra eva bādhit':āvagam'-ābhāvād,}₄₋₂₋₂₋₁
 {athavā kasyacid api kāl'-āntare 'pi bādhita:bodha-virahāt?}₄₋₂₋₂₋₂ ^p204
 
-{n' ādyaḥ;
-atiprasaṅgāt ‘puruṣa-tray'-āvagatasy' āpy eka:kṣaṇ'-āvagatasya ca puruṣ'-āntareṇa ten' āpi kṣaṇ'-āntare bahulaṃ bādhyatā-darśanād’ iti |
+{n' [[kathākālamātra eva madhyamasthamātrasya bādhitāvagamābhāvāt sattābhyupagamaḥ|ādyaḥ]];
+atiprasaṅgāt ‘puruṣa-tray'-āvagatasy' āpy eka:kṣaṇ'-āvagatasya ca puruṣ'-āntareṇa, ten' āpi kṣaṇ'-āntare bahulaṃ bādhyatā-darśanād’ iti |
 na c' āsāv artho ':sann api dvi;tr'—ādi:puruṣamātra-pūrva:jāta:[[arthaḥ|tat]]-pratīty-anurodhād bādha-darśane saty api tath" āpi ‘sann’ ity abhyupagamyate |}₄₋₂₋₂₋₁ ^p205
 
-{tasmād, dvitīyaḥ pakṣaḥ pariśiṣyate |
+{tasmād, [[kadācid api kasya cid api bādhitāvagamābhāvāt sattābhyupagamaḥ|dvitīyaḥ pakṣaḥ]] pariśiṣyate |
 yatra sarva-prakāreṇa bādhitatvaṃ n' āsti, tat ‘sad’ ity abhyupagantavyam |}₄₋₂₋₂₋₁}₄₋₂₋₂ ^p206
 
 #### Translation
 
-And, in as much the restriction in behaviour, which was made only voluntarily, results in accepting the existence of the means of valid knowledge etc, this (What I say (?)) is not a fault,
-because there the knowledge of existence is an auxiliary, not existence.
+And, it is not the case that yours is not a fault in as much the restriction in behaviour, which was made only voluntarily, results in accepting the existence of the means of valid knowledge etc,
+because it is the knowledge of existence that results in there there (in restriction of behaviour), not existence.
+(The opponent might urge that after all the two positions are not so different,
+because accepting the existence of the means of valid knowledge is the same as restricting behaviour)
 
-There, do you think that something's existence should be accepted merely because we perceive it, or because our perception of it is not contradictory?
+Then, do you think that their existence should be accepted merely because we understand it to be so, or because our understanding of it is not sublated?
 
-It certainly cannot be the first,
-because we would have to accept that the nature of water in mirages etc truly exists.
+To start with, it cannot be the first,
+because we would have to accept that the form of water of desert mirages etc truly exists.
 
-And, in the second too, is that the arbiter of claimant and defendant too has no contradictory perception only during the time of a debate?
-Or is it that there is also someone who is devoid of contradictory understanding even at a time that different from that (of the debate)?
+And, in the second too, 
+is it because only the arbiter of claimant and defendant does not have a sublated understanding (of their existence) only during the time of debate,
+or is it because no one even at another time has a sublated cognition (of their existence)?
 
 It's not the first,
-because we would have an overextention:
-We often see a contradiction between something that even if perceived by three people at the same time is perceived differently by one person, or even by the same person at two different times.
-And, it's not the case that, although a thing does not exist, according to the previously existing belief in it of a handful of people and despite seeing a contraction we nonetheless accept it as existent.
+because we would have an overextension:
+Often even something that three people understand or something that someone understands at one time is seen to be sublated by the same people at another time.
+And, it's not the case that that,
+although that object does not exist,
+despite its sublation it is still accepted as existent according to the apprehension of it that previously belonged to a handful of people
 
 Therefore, we are left with the second option.
-That thing in which according to everyone there is no contradiction should be accepted as existent.
+That thing in which there is no sublation by any means should be accepted as existent.
 
 #### VS Commentary
 
@@ -1494,6 +1512,44 @@ tac ca Bhaṭṭa-miśr'-okta:prakāreṇa draṣṭavyam
 
 #### Notes
 
+the paryavasāyitā is not the reason for something not being a fault, rather it's 
+it's not not the case that there would not be this fault in as much as – long phrase –
+
+n' āyaṃ doṣaḥ is what you might say!
+Because it ends up in the same thing (satthābhyupagamaḥ = vyavahāraniyamaḥ)
+
+First tatra: 
+vyavahāraniyamasamayabandhe
+
+Sentence initial tatra is vākyopanyāsaḥ – a general with regard to what I just said
+
+x 7 y 6 aṅgatvam = x y paryavasāyi
+
+avagamaḥ is not perceive, but rather understand
+we perceive it (existence)
+bādhita doesn't  get to be refuted or to be sublated, unfounded
+
+It's not the first to deal with that first
+
+nature of water 
+the undesirable consequence that we would be accepting the exitence of being something that has the nature of water
+desert mirages
+
+maybe vādi;prativādi... is a samāhāradvandvam
+
+nobody anyone at all should ever have a cognition of bādha
+
+contradiction between ... and 
+You don't do that
+bādhita > is to be rejected, refuted, denied
+by someone else or even by those three at some other time
+
+somebody else or one of the three may see the bādhyatā at a later time
+
+sarva:prakāreṇa by every mode 
+Ślokavārttika
+24ab 
+
 ### Passage 21
 
 #### Apparatus
@@ -1503,18 +1559,18 @@ kath"-āṅgat"-ān:aṅgīkārasya ] All Comms; kath"-āṅgat"-āṅgīkārasy
 #### Text
 
 tad itthaṃ yadi nāma vādi;prativādi-madhyasthamātrasya dūṣaṇ'—adi-satt"-āvagamaḥ kathā-kālamātre tair a:bādhyamānaḥ kath"-āṅgatven' ābhyupeyate,
-(tadā ŚM,RŚ) kim āyātaṃ sarva:prakār'-ā:bādhita:tat;tat-sattv'-āvagam'-āyatta:tat;tat-sattv'-ābhyupagama-kath"-āṅgat"-ān:aṅgīkārasya?
+(tadā ŚM,RŚ) kim āyātaṃ sarva:prakār'-ā:bādhita:tat;tat-sattv'-āvagam'-āyatta:tat;tat-sattv"-ābhyupagama-kath"-āṅgat"-ān:aṅgīkārasya?
 katipaya:pratipattṛ-katipaya:kāla-tathātv'-āvagamād eva ca prāyeṇa laukika-vyavahāraḥ pratīyate |
 tādṛśaś c' āyaṃ sattv'-āvagamaḥ kath"-āṅgam |
 etat tad ucyate ‘vyāvahārikīṃ pramāṇ'—ādi-sattām ādāya vicār'-ārambha'’ iti || ^p211
 
 #### Translation
 
-Then, in this way, if indeed claimant, defendant and arbiter accept the arbiter's perception of the existence of faults etc as a non-contradictory part of the debate only during the time of debate,
-what would be the excess in non-accepting the fact that accepting the existence of this or that, which depends on a perception of the existence of this or that which is not contradictory according to everyone, is not a part of debate?
-What's more, the behaviour of the common man is mostly established only by a perception of the fact that things are thus because of a handful of thinkers in a handful of time.
-And it's this kind of perception of existence that is part of debate.
-Therefore, we say ‘We begin to think having accepted a behavioural (conventional) existence of the means of valid knowledge etc.’
+Then, in this way, if indeed you accept the the arbiter's understanding₁ of the existence of faults etc, which₁ is not sublated by claimant, defendant and arbiter only during the time of debate, 
+what difference does it make to the fact that I do not acknowledge that accepting the existence of various things, which depends on understanding the existence of these various things as not sublated by any means, is a part of debate?
+What's more, the behaviour of the common man is mostly established only by an understanding of the fact that things are in a certain way because of a handful of thinkers for a small amount of time.
+And it's this kind of understanding of existence that is part of debate.
+This is what we mean when we say ‘We begin to think having accepted a behavioural (conventional) existence of the means of valid knowledge etc.’
 
 #### ŚM Commentary
 
@@ -1522,28 +1578,49 @@ Therefore, we say ‘We begin to think having accepted a behavioural (convention
 
 #### Notes
 
+tair might only be the agent of abādhyamāna, abhyupeyate might be bhavatā
+none of the three people have a sublating condition 
+
+kim āyātam > what comes to something (ṣaṣṭhī), what difference does it make to something
+mañjarīkāraḥ says:
+sa hi ghaṭād vastv-antaraṃ cet, tat kim āyātaṃ yad asau na pūrvavad upalabhyate?
+
+Vācaspatimiśraḥ
+nanu utpādyatāṃ nāma abhāvaḥ bhāvād bhinnaḥ kim āyātaṃ bhāvasya?
+
+the not acceptance of the being ancillary to kathā on the part of the acceptance of the exitence of the various things which depends on the understanding of the various
+even if you accept that just the madhyastha is true and it's not refuted at that time is a kathāṅga, but that doesn't change my not-accepting that we need for kathā to accept of tattatsattvābhyupagama
+I say rather that whether we accept various enitites as existence depends on it to be sarvaprakārābādhita
+This existence I don't believe to be necessary for kathā
+
+pratīyate = dṛśyate
+we see that laukikavyavahāra is ... only on the basis of understanding something being a certain way for a certain amount of time and only for some perceivers
+
+this is what we mean when we say
+lit. this is that which is said:
+
 ### Passage 22
 
 #### Apparatus
 
 #### Text
 
-tasmād, ‘‘yādṛg:vyavahāra-niyamaḥ kṛtaḥ, tan-maryād" ānena n' ollaṅghit"’ eti yad vādi-vāg-vyavahāre madhyasth'-āvagamaḥ, 
+tasmād, ‘‘yādṛg:vyavahāra-niyamaḥ kṛtas, tan-maryād" ānena n' ollaṅghit"’ eti yad vādi-vāg-vyavahāre madhyasth'-āvagamaḥ, 
 sa vijayate,
 yasya ca vacasi n' aivaṃ,
 [[madhyasthaḥ|tasy']] āvagamas tasya parājayaḥ |
 yatra vādy-ukta:nigraha-sattv'-āvagamaḥ,
 sa nigṛhītaḥ,
-tad-itaras tu na tath"’ ety—adi:niyama' eva kath"-ārambhāya grāhyaḥ |}₄₋₂
+tad-itaras tu na tath"’ ety—adi:niyama' eva kath"-ārambhāya grāhyaḥ | ^p221
 
 #### Translation
 
 Because of this, we have to accept only restrictions such as the following in order to begin to debate: 
-‘If the perception of the arbiter regarding the verbal behaviour of the claimant is ‘He did not overstep the limit of the kind of restriction in behaviour we had made,’ then he will win,
+‘If the understanding of the arbiter regarding the verbal behaviour of the claimant is ‘He did not overstep the limit of the kind of restriction in behaviour we had made,’ then he will win,
 and for him in whose speech it's not so,
-his (the arbiter's) perception is his (the debater's) defeat.
-Where he perceives the existance of a losing fault spoken by the claimant,
-he loses,
+his (the arbiter's) understanding is his (the debater's) defeat.
+Where he (the arbiter) understands the existence of a losing fault spoken by the claimant,
+he (the claimant) loses,
 and the other doesn't’
 etc.
 
@@ -1555,26 +1632,56 @@ etc.
 
 #### Text
 
-‘anena niyamena vyavahartavyam’ ity asya hy ayam arthaḥ ‘‘anena niayamen' oktam anen'’ eti madhyasth'-āvagamasya viṣayībhavitavyam’ iti |
+‘anena niyamena vyavahartavyam’ ity asya hy ayam arthaḥ ‘‘anena niyamen' oktam anen'’ eti madhyasth'-āvagamasya viṣayībhavitavyam’ iti | ^p231
 
-na ca vācyaṃ ‘tatas tad-avagamasy' āpi satt" ābhyupay"’ eti |
-tasy' āpi sattā-cintāyāṃ tat-satt"-āvagam'-āntarasy' aiva śaraṇatvāt |
+na ca vācyaṃ ‘‹tatas, [[madhyasthaḥ|tad]]-avagamasy' āpi satt" ābhyupey"›’ eti |
+[[madhyasthāvagamaḥ|tasy']] āpi sattā-cintāyāṃ [[madhyasthāvagamaḥ|tat]]-satt"-āvagam'-āntarasy' aiva śaraṇatvāt | ^p232
 
-na c' aivam an:avasthā |
-tad-anusaraṇ'-āvaśyaṃ:bhāv'-ān:aṅgīkārāt |
-‘evaṃ tri;catura:jñāna-janmano n' ādhikā matir’ iti nyāyāt |
+na c' ‹aivam an:avasthā›;
+tad-anusaraṇ'-āvaśyaṃ:bhāv'-ān:aṅgīkārāt;
+‘evaṃ tri;catura-jñāna—janmano n' ādhikā matir’ iti nyāyāt | ^p233
 
-na ca ‘antim':ā:sattve pūrva:pūrva:pravāh'-ā:sattv'-āpattiḥ |
-tathā c', āvagamam ādāy' āpi na nistāra'’ iti vācyam |
+na ca ‘‹antim':ā:sattve pūrva:pūrva:pravāh'-ā:sattv'-āpattiḥ |
+tathā c', āvagamam ādāy' āpi na nistāra'›’ iti vācyam | ^p234
 
-astv evam |
-tath" āpi tri;catura:jñāna-kakṣā-gaveṣaṇamātra-viśrāntena vicāreṇa tataḥ param an:anusaraṇa-ramaṇīyen' aiva samayaṃ baddhvā kathāyāṃ mithaḥ saṃpratipattyā pravartanāt |
+astv evam (RŚ hi);
+tath" āpi, tri;catura-jñāna-kakṣā-gaveṣaṇamātra-viśrāntena vicāreṇa tataḥ param an:anusaraṇa-ramaṇīyen' aiva samayaṃ baddhvā kathāyāṃ mithaḥ saṃpratipattyā pravartanāt |}₄₋₂ ^p235
 
 #### Translation
 
-#### ŚM Commentary
+For saying ‘We should behave according to this restriction’ means that ‘He has spoken according to this restriction’ should become the object of the arbiter's understanding.
+
+And, you should not say
+‘Then, you should accept the existence of his understanding.’
+For a different understanding of its (the arbiter's understanding) existence must resort to the idea of its existence.
+(That is, if we say that, ultimately, what exists is the arbiter's understanding, 
+when he has a different understanding we must justify it on the basis of his previous understanding and not on its own basis)
+
+And, it's not the case that we have an infinite regress,
+because we do not acknowledge a necessary existence as a consequence of that (the arbiter's understanding),
+because of the maxim ‘In this way the idea of something resulting from the knowledge of two or three is not superior.’
+
+And, you shouldn't say
+If ultimately nothing exists, 
+the non-existence of each and every thing undesirably follows in a stream.
+And in this way you have not overcome the flaw even if you have accepted (the arbiter's) understanding.
+
+Let it be so,
+because even in this way
+we can mutually engage in a debate with assent
+having struck an agreement
+by an enquiry that isn't only content in looking for the point in common in the knowledge of three of four people
+and, further, that is just enjoyable as it doesn't follow from anything.
+
+#### VS Commentary
+
+‘yathā ratna-parīkṣāyāṃ trayāṇāṃ, caturṇāṃ vā vākyāt samyag:jñāne jāte na punaḥ punar jñān'-āntaram apekṣate,
+tath" anyat' āpi jñān'-āntar'-ānusaraṇasy' ān:avaśyakatvān n' ān:avasth"’ [[Khaṇḍanakhaṇḍakhādyam#^p233|ety arthāḥ]] |
 
 #### RŚ Commentary
+
+‘yathā ratna-**tattva**-parīkṣāyāṃ trayāṇāṃ, caturṇāṃ vā vākyāt samyag:jñāne jāte na **punar** jñān'-āntaram apekṣate,
+tat" **ātr' āpi** jñān'-āntar'-ānusaraṇasy' ān:avaśyakatvād’ ity āśayena pariharati |
 
 #### Notes
 
@@ -1584,19 +1691,28 @@ tath" āpi tri;catura:jñāna-kakṣā-gaveṣaṇamātra-viśrāntena vicāre�
 
 #### Text
 
-anyathā, pramāṇ'—ādi-satt"-ābhyupagame 'pi jñān'-ān:avasthāyā' duṣ—pariharatvāt |
+anyathā, pramāṇ'—ādi-satt"-ābhyupagame 'pi jñān'-ān:avasthāyā' duṣ—pariharatvāt | ^p241
 
-na ca ‘vācyaṃ mat-pakṣe svarūpa-sattā-jñanena vyavahārasya caritārthayituṃ śakyatvān na jñānasya parampar"-ān:anusaraṇam ucitam,
-na tv evaṃ tvat-pakṣe; jñāna-svarūpa=satt"-āṅgīkāra-prasaṅgād’ iti |
-svarūpa-sattām ādāy' āpi pariharato 'n:avasthā-prasaṅgasya sva-prakāśa-prastāve vaktavyatvāt |
-yathā ca, tvat-pakṣe svarūpa-sattv'-ā:viśeṣe 'pi jñāna-svarūpa-satt" aiva paraṃ vyavahār'-opapādikā, na ghaṭ'—ādi-sattā, evam ev' ā:sattv'-ā:viśeṣe 'pi jñānam ev' āsad:vyavahār'-opapādakaṃ n' ānyat |
+na ca vācyaṃ ‘‹mat-pakṣe svarūpa-sattā-jñanena vyavahārasya caritārthayituṃ śakyatvān, na jñānasya (ŚM,RŚ taj-jñāna) parampar"-ān:anusaraṇam ucitam,
+na tv evaṃ tvat-pakṣe; jñāna-svarūpa-satt"-āṅgīkāra-prasaṅgād›’ iti;
+svarūpa-sattām ādāy' āpi pariharato 'n:avasthā-prasaṅgasya sva-prakāśa-prastāve vaktavyatvāt | ^p242
+
+yathā ca, tvat-pakṣe svarūpa-sattv'-ā:viśeṣe 'pi jñāna-svarūpa-satt" aiva paraṃ vyavahār'-opapādikā, na ghaṭ'—ādi-sattā, evam ev' ā:sattv'-ā:viśeṣe 'pi jñānam ev' āsad:vyavahār'-opapādakaṃ n' ānyat | ^p243
 
 ‘asac c' opapādakaṃ’ c' eti cen,
 na;
 ‘sad upapādakam’ iti kuto na vyāhatam?
-‘na’ hi ‘sad upapādakam, asac ca n'’ eti kvacid āvayoḥ siddham |
+‘na’ hi ‘sad upapādakam, asac ca n'’ eti kvacid āvayoḥ siddham | ^p244
 
 #### Translation
+
+Otherwise, because it would be difficult to reject the infinite regress of knowledge even if we accept the existence of the means of valid knowledge.
+
+And, don't say
+‘As concerns me, since I can accomplish my goal with the knowledge that the nature of our interaction exists,
+the fact that the sequence does not follow form knowledge is not appropriate.
+But it's not so in your case,
+because you have to acknowledge the existence of the nature of knowledge.’
 
 #### ŚM Commentary
 
