@@ -7,4 +7,4 @@ tags: []
 
 # svarūpād
 
-Natural state
+Something's own nature
